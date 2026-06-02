@@ -1,0 +1,32 @@
+technology_group,n_total,n_evaluable,n_success,completion_rate,ci_lower,ci_upper,suppressed
+Antibody,260,127,90.0,0.7086614173228346,0.6586614173228346,0.7586614173228347,False
+Cell Therapy,6,2,1.0,0.5,0.45,0.55,True
+Subunit Vaccine,4,2,1.0,0.5,0.45,0.55,True
+Antisense Oligonucleotide (ASO),3,2,2.0,1.0,0.95,1.05,True
+Oncolytic Virus,2,2,1.0,0.5,0.45,0.55,True
+Antibody Drug Conjugate (ADC),22,9,3.0,0.3333333333333333,0.2833333333333333,0.3833333333333333,False
+Vaccine Adjuvant,4,3,2.0,0.6666666666666666,0.6166666666666666,0.7166666666666667,True
+Chimeric Antigen Receptor T-Cell Therapy (CAR-T),14,3,2.0,0.6666666666666666,0.6166666666666666,0.7166666666666667,True
+Small Molecule,692,439,329.0,0.7494305239179955,0.6994305239179954,0.7994305239179955,False
+Cancer Vaccine,9,6,4.0,0.6666666666666666,0.6166666666666666,0.7166666666666667,False
+Tumor Inflitrating Lymphocyte Therapy (TIL),1,0,0.0,,,,True
+Chimeric Antigen Receptor Gamma Delta (Î³Î´) T-Cell Therapy (CAR-Î³Î´T),1,1,0.0,0.0,-0.05,0.05,True
+Antibody Radiopharmaceutical,2,2,1.0,0.5,0.45,0.55,True
+Radiopharmaceutical,2,1,1.0,1.0,0.95,1.05,True
+Radiopharmaceuticals,1,1,1.0,1.0,0.95,1.05,True
+Cytokine Fusion Protein (Immunocytokine),1,1,1.0,1.0,0.95,1.05,True
+Engineered Protein Therapy,21,15,10.0,0.6666666666666666,0.6166666666666666,0.7166666666666667,False
+Oncolytic Bacteria,2,2,0.0,0.0,-0.05,0.05,True
+mRNA,1,1,0.0,0.0,-0.05,0.05,True
+Gene Therapy,4,4,4.0,1.0,0.95,1.05,True
+Small Interfering RNA (siRNA),1,1,0.0,0.0,-0.05,0.05,True
+T-Cell Replacement Therapy,1,1,0.0,0.0,-0.05,0.05,True
+DNA Oligonucleotide Therapy,2,2,2.0,1.0,0.95,1.05,True
+Small Molecule Radiopharmaceutical,1,0,0.0,,,,True
+Other Protein Therapy,53,35,32.0,0.9142857142857143,0.8642857142857142,0.9642857142857143,False
+Live biotherapeutics,4,3,3.0,1.0,0.95,1.05,True
+Herbal/Traditional Chinese Medicine,1,1,1.0,1.0,0.95,1.05,True
+Mesenchymal Stem Cell Therapy (MSCs),1,1,0.0,0.0,-0.05,0.05,True
+Imaging,7,6,3.0,0.5,0.45,0.55,False
+Radiopharmaceutical Imaging,13,7,5.0,0.7142857142857143,0.6642857142857143,0.7642857142857143,False
+Toxin Fusion Protein (Immunotoxin),1,1,1.0,1.0,0.95,1.05,True

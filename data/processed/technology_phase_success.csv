@@ -1,0 +1,73 @@
+technology_group,phase_label,n_total,n_evaluable,n_success,completion_rate,ci_lower,ci_upper,suppressed
+Antibody Drug Conjugate (ADC),PHASE1,9,5,1.0,0.2,0.15000000000000002,0.25,False
+Radiopharmaceutical Imaging,PHASE1,5,3,2.0,0.6666666666666666,0.6166666666666666,0.7166666666666667,True
+Other Protein Therapy,PHASE1,14,8,6.0,0.75,0.7,0.8,False
+Antisense Oligonucleotide (ASO),PHASE2,2,2,2.0,1.0,0.95,1.05,True
+Toxin Fusion Protein (Immunotoxin),PHASE4,1,1,1.0,1.0,0.95,1.05,True
+Imaging,PHASE4,1,1,0.0,0.0,-0.05,0.05,True
+Chimeric Antigen Receptor Gamma Delta (Î³Î´) T-Cell Therapy (CAR-Î³Î´T),PHASE2,1,1,0.0,0.0,-0.05,0.05,True
+DNA Oligonucleotide Therapy,PHASE1,2,2,2.0,1.0,0.95,1.05,True
+Antibody Drug Conjugate (ADC),PHASE2,12,5,1.0,0.2,0.15000000000000002,0.25,False
+Radiopharmaceutical Imaging,PHASE2,6,1,1.0,1.0,0.95,1.05,True
+Other Protein Therapy,PHASE2,30,18,17.0,0.9444444444444444,0.8944444444444444,0.9944444444444445,False
+Antisense Oligonucleotide (ASO),PHASE1,2,1,1.0,1.0,0.95,1.05,True
+Live biotherapeutics,PHASE2,1,0,0.0,,,,True
+Small Molecule,PHASE2,396,239,168.0,0.702928870292887,0.6529288702928869,0.752928870292887,False
+Engineered Protein Therapy,PHASE2,15,11,6.0,0.5454545454545454,0.4954545454545454,0.5954545454545455,False
+Tumor Inflitrating Lymphocyte Therapy (TIL),EARLY_PHASE1,1,0,0.0,,,,True
+Mesenchymal Stem Cell Therapy (MSCs),PHASE1,1,1,0.0,0.0,-0.05,0.05,True
+Cytokine Fusion Protein (Immunocytokine),PHASE1,1,1,1.0,1.0,0.95,1.05,True
+Antibody Radiopharmaceutical,PHASE1,2,2,1.0,0.5,0.45,0.55,True
+Herbal/Traditional Chinese Medicine,PHASE2,1,1,1.0,1.0,0.95,1.05,True
+Antibody,PHASE3,30,12,11.0,0.9166666666666666,0.8666666666666666,0.9666666666666667,False
+Chimeric Antigen Receptor T-Cell Therapy (CAR-T),PHASE1,9,1,1.0,1.0,0.95,1.05,True
+Antibody,UNKNOWN,3,0,0.0,,,,True
+Gene Therapy,PHASE2,4,4,4.0,1.0,0.95,1.05,True
+Imaging,PHASE1,4,3,2.0,0.6666666666666666,0.6166666666666666,0.7166666666666667,True
+Radiopharmaceutical,PHASE1,1,1,1.0,1.0,0.95,1.05,True
+Small Interfering RNA (siRNA),PHASE1,1,1,0.0,0.0,-0.05,0.05,True
+Cancer Vaccine,PHASE3,2,1,1.0,1.0,0.95,1.05,True
+T-Cell Replacement Therapy,PHASE2,1,1,0.0,0.0,-0.05,0.05,True
+Chimeric Antigen Receptor T-Cell Therapy (CAR-T),PHASE2,6,1,0.0,0.0,-0.05,0.05,True
+Vaccine Adjuvant,PHASE1,4,3,2.0,0.6666666666666666,0.6166666666666666,0.7166666666666667,True
+Gene Therapy,PHASE1,3,3,3.0,1.0,0.95,1.05,True
+Radiopharmaceutical,PHASE2,1,1,1.0,1.0,0.95,1.05,True
+Imaging,PHASE2,2,2,2.0,1.0,0.95,1.05,True
+Small Interfering RNA (siRNA),PHASE2,1,1,0.0,0.0,-0.05,0.05,True
+T-Cell Replacement Therapy,PHASE1,1,1,0.0,0.0,-0.05,0.05,True
+Cancer Vaccine,PHASE1,6,4,3.0,0.75,0.7,0.8,True
+Antibody,PHASE1,98,61,39.0,0.639344262295082,0.589344262295082,0.689344262295082,False
+mRNA,PHASE1,1,1,0.0,0.0,-0.05,0.05,True
+Chimeric Antigen Receptor T-Cell Therapy (CAR-T),EARLY_PHASE1,1,1,1.0,1.0,0.95,1.05,True
+Chimeric Antigen Receptor T-Cell Therapy (CAR-T),PHASE3,1,0,0.0,,,,True
+Imaging,UNKNOWN,1,1,1.0,1.0,0.95,1.05,True
+Imaging,PHASE3,1,1,0.0,0.0,-0.05,0.05,True
+Radiopharmaceutical,PHASE3,1,0,0.0,,,,True
+Subunit Vaccine,PHASE1,4,2,1.0,0.5,0.45,0.55,True
+Small Molecule,PHASE3,92,54,42.0,0.7777777777777778,0.7277777777777777,0.8277777777777778,False
+Small Molecule,UNKNOWN,26,17,12.0,0.7058823529411765,0.6558823529411765,0.7558823529411766,False
+Engineered Protein Therapy,PHASE3,1,0,0.0,,,,True
+Radiopharmaceuticals,UNKNOWN,1,1,1.0,1.0,0.95,1.05,True
+Other Protein Therapy,PHASE4,2,2,2.0,1.0,0.95,1.05,True
+Cell Therapy,PHASE1,5,2,1.0,0.5,0.45,0.55,True
+Small Molecule,EARLY_PHASE1,4,2,2.0,1.0,0.95,1.05,True
+Oncolytic Bacteria,PHASE1,2,2,0.0,0.0,-0.05,0.05,True
+Antibody Drug Conjugate (ADC),PHASE4,1,1,1.0,1.0,0.95,1.05,True
+Cell Therapy,PHASE2,4,1,1.0,1.0,0.95,1.05,True
+Oncolytic Bacteria,PHASE2,1,1,0.0,0.0,-0.05,0.05,True
+Small Molecule,PHASE1,245,171,130.0,0.7602339181286549,0.7102339181286549,0.810233918128655,False
+Engineered Protein Therapy,PHASE1,11,8,7.0,0.875,0.825,0.925,False
+Oncolytic Virus,PHASE1,2,2,1.0,0.5,0.45,0.55,True
+Antibody,PHASE2,167,76,53.0,0.6973684210526315,0.6473684210526315,0.7473684210526316,False
+Cancer Vaccine,PHASE2,2,2,1.0,0.5,0.45,0.55,True
+Small Molecule,PHASE4,17,9,9.0,1.0,0.95,1.05,False
+Other Protein Therapy,UNKNOWN,3,2,2.0,1.0,0.95,1.05,True
+Radiopharmaceutical Imaging,EARLY_PHASE1,3,2,1.0,0.5,0.45,0.55,True
+Live biotherapeutics,UNKNOWN,1,1,1.0,1.0,0.95,1.05,True
+Other Protein Therapy,PHASE3,12,8,7.0,0.875,0.825,0.925,False
+Radiopharmaceutical Imaging,PHASE3,1,1,1.0,1.0,0.95,1.05,True
+Radiopharmaceutical Imaging,UNKNOWN,1,1,1.0,1.0,0.95,1.05,True
+Cytokine Fusion Protein (Immunocytokine),PHASE2,1,1,1.0,1.0,0.95,1.05,True
+Live biotherapeutics,PHASE3,3,2,2.0,1.0,0.95,1.05,True
+Antibody Drug Conjugate (ADC),PHASE3,2,0,0.0,,,,True
+Small Molecule Radiopharmaceutical,PHASE2,1,0,0.0,,,,True

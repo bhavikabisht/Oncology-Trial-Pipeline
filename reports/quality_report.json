@@ -1,0 +1,239 @@
+{
+  "dimensions": {
+    "rows": 1000,
+    "columns": 19
+  },
+  "completeness": [
+    {
+      "column": "target_names",
+      "total": 1000,
+      "non_null": 823,
+      "null_count": 177,
+      "completeness_%": 82.3,
+      "unique_count": 582,
+      "cardinality_%": 70.7
+    },
+    {
+      "column": "target_abbreviations",
+      "total": 1000,
+      "non_null": 840,
+      "null_count": 160,
+      "completeness_%": 84.0,
+      "unique_count": 614,
+      "cardinality_%": 73.1
+    },
+    {
+      "column": "specific_technologies",
+      "total": 1000,
+      "non_null": 876,
+      "null_count": 124,
+      "completeness_%": 87.6,
+      "unique_count": 118,
+      "cardinality_%": 13.5
+    },
+    {
+      "column": "main_technologies",
+      "total": 1000,
+      "non_null": 876,
+      "null_count": 124,
+      "completeness_%": 87.6,
+      "unique_count": 78,
+      "cardinality_%": 8.9
+    },
+    {
+      "column": "drugs_datalake",
+      "total": 1000,
+      "non_null": 923,
+      "null_count": 77,
+      "completeness_%": 92.3,
+      "unique_count": 846,
+      "cardinality_%": 91.7
+    },
+    {
+      "column": "duration_days",
+      "total": 1000,
+      "non_null": 946,
+      "null_count": 54,
+      "completeness_%": 94.6,
+      "unique_count": 681,
+      "cardinality_%": 72.0
+    },
+    {
+      "column": "completion_date",
+      "total": 1000,
+      "non_null": 948,
+      "null_count": 52,
+      "completeness_%": 94.8,
+      "unique_count": 600,
+      "cardinality_%": 63.3
+    },
+    {
+      "column": "primary_completion_date",
+      "total": 1000,
+      "non_null": 949,
+      "null_count": 51,
+      "completeness_%": 94.9,
+      "unique_count": 610,
+      "cardinality_%": 64.3
+    },
+    {
+      "column": "enrollment_type",
+      "total": 1000,
+      "non_null": 956,
+      "null_count": 44,
+      "completeness_%": 95.6,
+      "unique_count": 2,
+      "cardinality_%": 0.2
+    },
+    {
+      "column": "enrollment",
+      "total": 1000,
+      "non_null": 974,
+      "null_count": 26,
+      "completeness_%": 97.4,
+      "unique_count": 253,
+      "cardinality_%": 26.0
+    },
+    {
+      "column": "interventions_drugs",
+      "total": 1000,
+      "non_null": 989,
+      "null_count": 11,
+      "completeness_%": 98.9,
+      "unique_count": 948,
+      "cardinality_%": 95.9
+    },
+    {
+      "column": "official_title",
+      "total": 1000,
+      "non_null": 994,
+      "null_count": 6,
+      "completeness_%": 99.4,
+      "unique_count": 994,
+      "cardinality_%": 100.0
+    },
+    {
+      "column": "start_date",
+      "total": 1000,
+      "non_null": 995,
+      "null_count": 5,
+      "completeness_%": 99.5,
+      "unique_count": 693,
+      "cardinality_%": 69.6
+    },
+    {
+      "column": "datalake_id",
+      "total": 1000,
+      "non_null": 1000,
+      "null_count": 0,
+      "completeness_%": 100.0,
+      "unique_count": 1000,
+      "cardinality_%": 100.0
+    },
+    {
+      "column": "phase",
+      "total": 1000,
+      "non_null": 1000,
+      "null_count": 0,
+      "completeness_%": 100.0,
+      "unique_count": 8,
+      "cardinality_%": 0.8
+    },
+    {
+      "column": "brief_title",
+      "total": 1000,
+      "non_null": 1000,
+      "null_count": 0,
+      "completeness_%": 100.0,
+      "unique_count": 1000,
+      "cardinality_%": 100.0
+    },
+    {
+      "column": "indications",
+      "total": 1000,
+      "non_null": 1000,
+      "null_count": 0,
+      "completeness_%": 100.0,
+      "unique_count": 463,
+      "cardinality_%": 46.3
+    },
+    {
+      "column": "nct_id",
+      "total": 1000,
+      "non_null": 1000,
+      "null_count": 0,
+      "completeness_%": 100.0,
+      "unique_count": 1000,
+      "cardinality_%": 100.0
+    },
+    {
+      "column": "recruitment_status",
+      "total": 1000,
+      "non_null": 1000,
+      "null_count": 0,
+      "completeness_%": 100.0,
+      "unique_count": 9,
+      "cardinality_%": 0.9
+    }
+  ],
+  "status_audit": {
+    "column": "recruitment_status",
+    "value_counts": {
+      "COMPLETED": 453,
+      "RECRUITING": 140,
+      "TERMINATED": 123,
+      "UNKNOWN": 121,
+      "ACTIVE_NOT_RECRUITING": 76,
+      "NOT_YET_RECRUITING": 41,
+      "WITHDRAWN": 40,
+      "SUSPENDED": 4,
+      "ENROLLING_BY_INVITATION": 2
+    },
+    "unexpected_values": {},
+    "n_unexpected": 0
+  },
+  "phase_audit": {
+    "column": "phase",
+    "value_counts": {
+      "PHASE2": 402,
+      "PHASE1": 253,
+      "PHASE1/PHASE2": 126,
+      "PHASE3": 124,
+      "UNKNOWN": 40,
+      "PHASE4": 25,
+      "PHASE2/PHASE3": 17,
+      "EARLY_PHASE1": 13
+    },
+    "unexpected_values": {},
+    "n_unexpected": 0
+  },
+  "date_anomalies": {
+    "count": 1,
+    "examples": [
+      {
+        "nct_id": "NCT01680965",
+        "issue": "primary_completion_after_completion",
+        "primary": "2020-08-31 00:00:00",
+        "completion": "2020-08-30 00:00:00"
+      }
+    ]
+  },
+  "duplicates": {
+    "duplicate_nct_ids": 0,
+    "duplicate_titles": 0,
+    "duplicate_nct_examples": []
+  },
+  "enrollment_summary": {
+    "count": 974.0,
+    "mean": 117.4,
+    "std": 261.6,
+    "min": 0.0,
+    "25%": 20.0,
+    "50%": 41.5,
+    "75%": 100.0,
+    "max": 3762.0
+  },
+  "start_date_null_count": 5,
+  "completion_date_null_count": 52,
+  "primary_completion_date_null_count": 51
+}

@@ -1,0 +1,103 @@
+
+━━━ 1. LOADING & CLEANING ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Loaded 1,000 trials, 19 columns
+
+━━━ 2. DATA QUALITY REPORT ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+───────────────────────────────────────────────── Data Quality Report ──────────────────────────────────────────────────
+Rows: 1000
+Columns: 19
+              Field Completeness (worst 10)              
+┏━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━┓
+┃ Column                  ┃ Completeness % ┃ Null Count ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━┩
+│ target_names            │           82.3 │        177 │
+├─────────────────────────┼────────────────┼────────────┤
+│ target_abbreviations    │           84.0 │        160 │
+├─────────────────────────┼────────────────┼────────────┤
+│ specific_technologies   │           87.6 │        124 │
+├─────────────────────────┼────────────────┼────────────┤
+│ main_technologies       │           87.6 │        124 │
+├─────────────────────────┼────────────────┼────────────┤
+│ drugs_datalake          │           92.3 │         77 │
+├─────────────────────────┼────────────────┼────────────┤
+│ duration_days           │           94.6 │         54 │
+├─────────────────────────┼────────────────┼────────────┤
+│ completion_date         │           94.8 │         52 │
+├─────────────────────────┼────────────────┼────────────┤
+│ primary_completion_date │           94.9 │         51 │
+├─────────────────────────┼────────────────┼────────────┤
+│ enrollment_type         │           95.6 │         44 │
+├─────────────────────────┼────────────────┼────────────┤
+│ enrollment              │           97.4 │         26 │
+└─────────────────────────┴────────────────┴────────────┘
+
+━━━ 3. SCHEMA NORMALISATION → DUCKDB ━━━━━━━━━━━━━━━━━━━━
+
+━━━ 4. COHORT ANALYSIS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Total trials: 1,000
+  Completed:    453
+  Failed:       167
+  Censored:     380
+  ✓ Analysis CSVs saved to data/processed/
+
+━━━ 5. VISUALISATIONS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ✓ reports//phase_completion_rate.html
+  ✓ reports//technology_phase_heatmap.html
+  ✓ reports//indication_completion_rate.html
+  ✓ reports//temporal_trend.html
+
+━━━ DONE ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Reports: reports/
+  DB:      data/processed/oncology.duckdb
+
+━━━ 1. LOADING & CLEANING ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Loaded 1,000 trials, 19 columns
+
+━━━ 2. DATA QUALITY REPORT ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+───────────────────────────────────────────────── Data Quality Report ──────────────────────────────────────────────────
+Rows: 1000
+Columns: 19
+              Field Completeness (worst 10)              
+┏━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━┓
+┃ Column                  ┃ Completeness % ┃ Null Count ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━┩
+│ target_names            │           82.3 │        177 │
+├─────────────────────────┼────────────────┼────────────┤
+│ target_abbreviations    │           84.0 │        160 │
+├─────────────────────────┼────────────────┼────────────┤
+│ specific_technologies   │           87.6 │        124 │
+├─────────────────────────┼────────────────┼────────────┤
+│ main_technologies       │           87.6 │        124 │
+├─────────────────────────┼────────────────┼────────────┤
+│ drugs_datalake          │           92.3 │         77 │
+├─────────────────────────┼────────────────┼────────────┤
+│ duration_days           │           94.6 │         54 │
+├─────────────────────────┼────────────────┼────────────┤
+│ completion_date         │           94.8 │         52 │
+├─────────────────────────┼────────────────┼────────────┤
+│ primary_completion_date │           94.9 │         51 │
+├─────────────────────────┼────────────────┼────────────┤
+│ enrollment_type         │           95.6 │         44 │
+├─────────────────────────┼────────────────┼────────────┤
+│ enrollment              │           97.4 │         26 │
+└─────────────────────────┴────────────────┴────────────┘
+
+━━━ 3. SCHEMA NORMALISATION → DUCKDB ━━━━━━━━━━━━━━━━━━━━
+
+━━━ 4. COHORT ANALYSIS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Total trials: 1,000
+  Completed:    453
+  Failed:       167
+  Censored:     380
+  ✓ Analysis CSVs saved to data/processed/
+
+━━━ 5. VISUALISATIONS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ✓ reports//phase_completion_rate.html
+  ✓ reports//technology_phase_heatmap.html
+  ✓ reports//indication_completion_rate.html
+  ✓ reports//temporal_trend.html
+  ✓ reports//phase_attrition_sankey.html
+
+━━━ DONE ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Reports: reports/
+  DB:      data/processed/oncology.duckdb

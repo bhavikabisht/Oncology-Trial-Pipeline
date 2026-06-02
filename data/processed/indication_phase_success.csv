@@ -1,0 +1,789 @@
+indication,phase_label,n_total,n_evaluable,n_success,completion_rate,ci_lower,ci_upper,suppressed
+Metastatic Melanoma,PHASE1,5,3,2.0,0.6666666666666666,0.6166666666666666,0.7166666666666667,False
+Multiple Myeloma,PHASE1,25,17,10.0,0.5882352941176471,0.538235294117647,0.6382352941176471,False
+Esophageal Cancer,PHASE2,14,8,5.0,0.625,0.575,0.675,False
+Acute Lymphoblastic Leukemia,PHASE1,11,7,4.0,0.5714285714285714,0.5214285714285714,0.6214285714285714,False
+Prostate Cancer,PHASE1,14,6,1.0,0.16666666666666666,0.11666666666666665,0.21666666666666667,False
+Non-Small Cell Lung Cancer,PHASE3,4,2,1.0,0.5,0.45,0.55,False
+Iron-Deficiency Anemia,PHASE3,3,2,2.0,1.0,0.95,1.05,False
+Liver Cancer,PHASE3,6,2,2.0,1.0,0.95,1.05,False
+Skin Squamous Cell Carcinoma,PHASE2,1,0,0.0,,,,True
+Hepatocellular Carcinoma,PHASE4,2,2,2.0,1.0,0.95,1.05,False
+WHO Grade 3 Glioma,PHASE1,3,0,0.0,,,,True
+Anaplastic Oligodendroglioma,PHASE1,2,0,0.0,,,,True
+Muscle Invasive Bladder Cancer,PHASE1,2,1,1.0,1.0,0.95,1.05,False
+Furmonertinib,PHASE2,1,0,0.0,,,,True
+Graft Versus Host Disease,PHASE3,5,3,3.0,1.0,0.95,1.05,False
+Rhabdomyosarcoma,PHASE1,2,1,1.0,1.0,0.95,1.05,False
+Non-Small Cell Lung Cancer,UNKNOWN,2,1,1.0,1.0,0.95,1.05,False
+High-risk Leukemias,PHASE2,1,0,0.0,,,,True
+Thyroid Gland Anaplastic Carcinoma,PHASE2,2,0,0.0,,,,True
+Surgery,PHASE3,1,1,1.0,1.0,0.95,1.05,False
+Bladder Cancer,UNKNOWN,1,1,1.0,1.0,0.95,1.05,False
+Liver Cancer,UNKNOWN,4,3,0.0,0.0,-0.05,0.05,False
+Brain Metastasis,PHASE3,2,1,0.0,0.0,-0.05,0.05,False
+Conditioning,PHASE3,1,0,0.0,,,,True
+Primary Hyperparathyroidism,PHASE3,1,1,1.0,1.0,0.95,1.05,False
+Kidney Wilms Tumor,PHASE3,2,2,2.0,1.0,0.95,1.05,False
+Carcinoma of Unknown Primary,PHASE1,3,2,1.0,0.5,0.45,0.55,False
+Brain Metastasis,UNKNOWN,1,1,1.0,1.0,0.95,1.05,False
+HLA-A*0201 Positive Cells Present,PHASE2,1,1,1.0,1.0,0.95,1.05,False
+Cancer,PHASE1,12,11,8.0,0.7272727272727273,0.6772727272727272,0.7772727272727273,False
+Surgical Resection,UNKNOWN,1,1,1.0,1.0,0.95,1.05,False
+Acute Megakaryoblastic Leukemia,PHASE2,1,1,0.0,0.0,-0.05,0.05,False
+PI3K Pathway Inhibition,PHASE1,1,1,1.0,1.0,0.95,1.05,False
+Primary Immunodeficiency,PHASE2,1,1,0.0,0.0,-0.05,0.05,False
+Myeloid Neoplasm,PHASE2,2,2,1.0,0.5,0.45,0.55,False
+Ewing Sarcoma,UNKNOWN,1,1,0.0,0.0,-0.05,0.05,False
+Primary Cutaneous B-Cell Non-Hodgkin Lymphoma,PHASE2,1,1,0.0,0.0,-0.05,0.05,False
+Nodal Marginal Zone Lymphoma,PHASE2,2,2,1.0,0.5,0.45,0.55,False
+Anaplastic Large Cell Lymphoma,PHASE4,1,0,0.0,,,,True
+Indocyanine Green,UNKNOWN,1,1,1.0,1.0,0.95,1.05,False
+Dedifferentiated Liposarcoma,PHASE2,1,1,0.0,0.0,-0.05,0.05,False
+Adenocarcinoma of the Ovaries,PHASE1,1,1,0.0,0.0,-0.05,0.05,False
+Ovarian Germ Cell Tumor,PHASE2,4,4,4.0,1.0,0.95,1.05,False
+Chronic Renal Failure,PHASE2,1,1,1.0,1.0,0.95,1.05,False
+Bladder Cancer,PHASE3,3,3,2.0,0.6666666666666666,0.6166666666666666,0.7166666666666667,False
+Congenital Amegakaryocytic Thrombocytopenia,PHASE1,1,1,1.0,1.0,0.95,1.05,False
+PTEN Gene Mutation,PHASE1,1,1,0.0,0.0,-0.05,0.05,False
+Biliary Tract Cancer,PHASE1,1,0,0.0,,,,True
+T-Cell Large Granular Lymphocyte Leukemia,PHASE1,2,2,1.0,0.5,0.45,0.55,False
+Splenic Marginal Zone Lymphoma,PHASE1,1,1,0.0,0.0,-0.05,0.05,False
+Skin Basal Cell Carcinoma,PHASE1,1,1,1.0,1.0,0.95,1.05,False
+Acute Myeloid Leukemia,PHASE4,1,1,1.0,1.0,0.95,1.05,False
+Ovarian Cancer,PHASE1,12,11,9.0,0.8181818181818182,0.7681818181818182,0.8681818181818183,False
+Osteosarcoma,PHASE3,1,0,0.0,,,,True
+Rectal Carcinoma,PHASE3,1,0,0.0,,,,True
+Gastric Cancer,PHASE1,13,7,4.0,0.5714285714285714,0.5214285714285714,0.6214285714285714,False
+Triple-Negative Breast Cancer,PHASE2,7,3,2.0,0.6666666666666666,0.6166666666666666,0.7166666666666667,False
+Solid Tumors,EARLY_PHASE1,3,0,0.0,,,,True
+Head and Neck Squamous Cell Carcinoma,PHASE1,12,7,2.0,0.2857142857142857,0.2357142857142857,0.3357142857142857,False
+High-Grade Glioma,EARLY_PHASE1,2,0,0.0,,,,True
+Second Line Treatment of Gastric Cancer,PHASE2,1,0,0.0,,,,True
+Solid Tumors,UNKNOWN,1,0,0.0,,,,True
+Smoking Cessation,PHASE2,1,0,0.0,,,,True
+Pan-tumor,PHASE2,1,0,0.0,,,,True
+Advanced Cancers Harbouring Mutations in HRG,PHASE2,1,0,0.0,,,,True
+Leukemia,PHASE3,5,3,3.0,1.0,0.95,1.05,False
+"Renal Insufficiency, Chronic",PHASE3,1,1,1.0,1.0,0.95,1.05,False
+Allogeneic Hematopoietic Stem Cell Transplantation,PHASE3,1,0,0.0,,,,True
+Intraepithelial Neoplasia,PHASE1,2,2,2.0,1.0,0.95,1.05,False
+Vascular Thrombosis,UNKNOWN,1,1,0.0,0.0,-0.05,0.05,False
+Non-Dialysis-Dependent Chronic Kidney Disease,PHASE3,1,1,1.0,1.0,0.95,1.05,False
+Progressive Brain Metastases,PHASE2,1,1,0.0,0.0,-0.05,0.05,False
+Kidney Cancer,PHASE1,2,1,1.0,1.0,0.95,1.05,False
+Lung Non-Squamous Non-Small Cell Carcinoma,PHASE2,1,0,0.0,,,,True
+Breast Ductal Carcinoma In Situ,PHASE2,1,1,1.0,1.0,0.95,1.05,False
+Stage IV Adult Diffuse Small Cleaved Cell Lymphoma,PHASE2,1,1,0.0,0.0,-0.05,0.05,False
+Leukemia,UNKNOWN,3,3,3.0,1.0,0.95,1.05,False
+"Healthy, no Evidence of Disease",PHASE1,1,1,1.0,1.0,0.95,1.05,False
+Skin Melanoma,PHASE3,1,0,0.0,,,,True
+Solid Tumors,PHASE3,2,2,2.0,1.0,0.95,1.05,False
+Connective and Soft Tissue Neoplasm,PHASE1,1,1,1.0,1.0,0.95,1.05,False
+Hemophagocytic Lymphohistiocytosis,PHASE3,1,1,1.0,1.0,0.95,1.05,False
+Testicular Germ Cell Cancer,PHASE1,1,0,0.0,,,,True
+Thrombotic Thrombocytopenic Purpura,PHASE2,1,1,1.0,1.0,0.95,1.05,False
+Grade 1 Follicular Lymphoma,PHASE1,6,6,0.0,0.0,-0.05,0.05,False
+Brain Edema,PHASE1,1,1,0.0,0.0,-0.05,0.05,False
+Endometrial Cancer,PHASE1,1,1,1.0,1.0,0.95,1.05,False
+Hepatitis C,PHASE2,1,1,1.0,1.0,0.95,1.05,False
+"Metastases, Neoplasm",PHASE1,1,1,1.0,1.0,0.95,1.05,False
+Pancreatic Cancer,PHASE1,28,23,16.0,0.6956521739130435,0.6456521739130434,0.7456521739130435,False
+MSS,PHASE3,1,0,0.0,,,,True
+Vulvar Carcinoma,PHASE2,7,0,0.0,,,,True
+Solid Tumors,PHASE2,20,8,5.0,0.625,0.575,0.675,False
+Triple-Negative Breast Cancer,PHASE3,2,0,0.0,,,,True
+Lung Non-Squamous Non-Small Cell Carcinoma,PHASE3,4,1,1.0,1.0,0.95,1.05,False
+Rectal Carcinoma,PHASE2,5,3,3.0,1.0,0.95,1.05,False
+Urothelial Carcinoma,PHASE1,12,2,2.0,1.0,0.95,1.05,False
+Leukemia,PHASE2,16,10,8.0,0.8,0.75,0.8500000000000001,False
+Triple-Negative Breast Cancer,UNKNOWN,1,0,0.0,,,,True
+Female Reproductive System Neoplasm,PHASE1,2,1,1.0,1.0,0.95,1.05,False
+Male Reproductive System Neoplasm,PHASE1,17,10,9.0,0.9,0.85,0.9500000000000001,False
+Intrahepatic Cholangiocarcinoma,PHASE1,2,0,0.0,,,,True
+Metastatic NSCLC,PHASE1,1,1,0.0,0.0,-0.05,0.05,False
+Skin Melanoma,PHASE2,12,9,8.0,0.8888888888888888,0.8388888888888888,0.9388888888888889,False
+HER2-Positive Breast Cancer,PHASE2,4,2,2.0,1.0,0.95,1.05,False
+Osteosarcoma,PHASE2,2,2,2.0,1.0,0.95,1.05,False
+Relapsed Pediatric Solid Tumor,PHASE2,1,1,1.0,1.0,0.95,1.05,False
+Multiple Primary Lung Cancers,PHASE2,1,0,0.0,,,,True
+Skin Toxicity,PHASE2,1,0,0.0,,,,True
+Microsatellite Instability,PHASE2,1,0,0.0,,,,True
+Thrombotic Thrombocytopenic Purpura,PHASE3,1,1,1.0,1.0,0.95,1.05,False
+PI3K Gene Mutation,PHASE2,1,0,0.0,,,,True
+Intestinal T-Cell Lymphoma,PHASE2,1,1,1.0,1.0,0.95,1.05,False
+Acral Lentiginous Melanoma,PHASE2,1,1,0.0,0.0,-0.05,0.05,False
+Pancreatic Diseases,PHASE2,1,1,1.0,1.0,0.95,1.05,False
+Hematology,PHASE4,1,0,0.0,,,,True
+Anal Cancer,PHASE1,3,3,3.0,1.0,0.95,1.05,False
+Mesothelioma,PHASE1,1,1,1.0,1.0,0.95,1.05,False
+Salivary Gland Cancer,PHASE2,5,4,4.0,1.0,0.95,1.05,False
+Other Hematologic Malignant Neoplasms,PHASE2,1,0,0.0,,,,True
+Recurrent Adult Diffuse Mixed Cell Lymphoma,PHASE2,2,2,1.0,0.5,0.45,0.55,False
+Internal Radiation,UNKNOWN,1,1,1.0,1.0,0.95,1.05,False
+Mucositis,PHASE3,1,1,1.0,1.0,0.95,1.05,False
+Atypical Hemolytic Uremic Syndrome,PHASE2,1,1,1.0,1.0,0.95,1.05,False
+Nasopharyngeal Cancer,PHASE1,4,4,3.0,0.75,0.7,0.8,False
+Bile Duct Cancer,PHASE1,3,3,2.0,0.6666666666666666,0.6166666666666666,0.7166666666666667,False
+Mucositis,UNKNOWN,1,1,1.0,1.0,0.95,1.05,False
+Vaso-occlusive Crisis,PHASE2,1,1,1.0,1.0,0.95,1.05,False
+High-Grade Glioma,PHASE2,1,1,1.0,1.0,0.95,1.05,False
+Allogeneic Hematopoietic Stem Cell Transplantation,PHASE2,1,0,0.0,,,,True
+Contiguous Stage II Adult Diffuse Mixed Cell Lymphoma,PHASE1,1,1,0.0,0.0,-0.05,0.05,False
+Noncontiguous Stage II Adult Diffuse Mixed Cell Lymphoma,PHASE1,1,1,0.0,0.0,-0.05,0.05,False
+Stage I Adult Diffuse Small Cleaved Cell Lymphoma,PHASE1,1,1,0.0,0.0,-0.05,0.05,False
+Recurrent Midline Lethal Granuloma of the Paranasal Sinus and Nasal Cavity,PHASE1,1,1,1.0,1.0,0.95,1.05,False
+Chronic Graft Versus Host Disease,PHASE1,1,1,1.0,1.0,0.95,1.05,False
+Erectile Dysfunction,PHASE3,1,1,1.0,1.0,0.95,1.05,False
+Oral Complications,PHASE1,1,1,1.0,1.0,0.95,1.05,False
+Multiple Myeloma,PHASE2,42,27,10.0,0.37037037037037035,0.32037037037037036,0.42037037037037034,False
+Muscle Invasive Bladder Cancer,PHASE2,1,0,0.0,,,,True
+Gastrointestinal Diseases,PHASE2,1,0,0.0,,,,True
+PTEN Gene Mutation,PHASE2,1,1,0.0,0.0,-0.05,0.05,False
+WHO Grade 3 Glioma,PHASE2,2,1,1.0,1.0,0.95,1.05,False
+Cervical Cancer,UNKNOWN,1,0,0.0,,,,True
+Breast Cancer,PHASE4,3,1,1.0,1.0,0.95,1.05,False
+Prostate Cancer,PHASE2,26,11,9.0,0.8181818181818182,0.7681818181818182,0.8681818181818183,False
+Acute Lymphoblastic Leukemia,PHASE2,17,8,4.0,0.5,0.45,0.55,False
+Immune-related Adverse Event,PHASE1,1,0,0.0,,,,True
+Chemotherapeutic Toxicity,PHASE1,1,0,0.0,,,,True
+Glioma,EARLY_PHASE1,3,0,0.0,,,,True
+"Peripheral T-Cell Lymphoma, Not Otherwise Specified",PHASE2,1,0,0.0,,,,True
+Cancer,PHASE2,9,7,6.0,0.8571428571428571,0.807142857142857,0.9071428571428571,False
+Esophageal Cancer,PHASE1,7,1,1.0,1.0,0.95,1.05,False
+Head and Neck Neoplasm,EARLY_PHASE1,1,1,0.0,0.0,-0.05,0.05,False
+Acute Graft Versus Host Disease,PHASE3,2,0,0.0,,,,True
+Biliary Tract Cancer,PHASE2,4,2,1.0,0.5,0.45,0.55,False
+Rhabdomyosarcoma,PHASE2,2,1,1.0,1.0,0.95,1.05,False
+Warm Autoimmune Hemolytic Anemia,PHASE2,1,1,0.0,0.0,-0.05,0.05,False
+Head and Neck Neoplasm,UNKNOWN,2,1,0.0,0.0,-0.05,0.05,False
+Cervical Cancer,PHASE3,2,1,1.0,1.0,0.95,1.05,False
+Head and Neck Neoplasm,PHASE3,2,2,2.0,1.0,0.95,1.05,False
+Transformed Indolent B-Cell Non-Hodgkin Lymphoma to Diffuse Large B-Cell Lymphoma,PHASE3,1,0,0.0,,,,True
+ROS1 Gene Mutation,PHASE2,1,0,0.0,,,,True
+Metastatic Melanoma,PHASE2,1,1,0.0,0.0,-0.05,0.05,False
+Colorectal Cancer,PHASE4,1,1,1.0,1.0,0.95,1.05,False
+T-Cell Large Granular Lymphocyte Leukemia,PHASE2,2,2,1.0,0.5,0.45,0.55,False
+Ureter Urothelial Carcinoma,PHASE1,4,0,0.0,,,,True
+Urethral Cancer,PHASE1,2,0,0.0,,,,True
+Bronchopulmonary Dysplasia (BPD),PHASE2,1,1,1.0,1.0,0.95,1.05,False
+Cancer-associated Thrombosis,PHASE4,1,1,1.0,1.0,0.95,1.05,False
+Genitourinary System Neoplasm,PHASE4,1,1,1.0,1.0,0.95,1.05,False
+Splenic Marginal Zone Lymphoma,PHASE2,2,2,1.0,0.5,0.45,0.55,False
+Carcinoma of Unknown Primary,PHASE2,1,1,1.0,1.0,0.95,1.05,False
+Skin Basal Cell Carcinoma,PHASE2,2,2,2.0,1.0,0.95,1.05,False
+Peripheral Neuropathy,PHASE2,1,1,0.0,0.0,-0.05,0.05,False
+Cancer Patients First-ever Acute Ischemic Stroke,UNKNOWN,1,1,1.0,1.0,0.95,1.05,False
+Myeloid Neoplasm,PHASE1,3,3,2.0,0.6666666666666666,0.6166666666666666,0.7166666666666667,False
+Mantle Cell Lymphoma,PHASE3,1,0,0.0,,,,True
+Adrenal Gland Pheochromocytoma,PHASE1,1,1,1.0,1.0,0.95,1.05,False
+Paraganglioma,PHASE1,1,1,1.0,1.0,0.95,1.05,False
+Premature Birth,PHASE3,1,1,0.0,0.0,-0.05,0.05,False
+Central Nervous System Embryonal Tumor,PHASE1,2,2,2.0,1.0,0.95,1.05,False
+High-risk Leukemias,PHASE1,1,0,0.0,,,,True
+Primary Immunodeficiency,PHASE1,1,1,0.0,0.0,-0.05,0.05,False
+Primary Cutaneous B-Cell Non-Hodgkin Lymphoma,PHASE1,1,1,0.0,0.0,-0.05,0.05,False
+Nodal Marginal Zone Lymphoma,PHASE1,1,1,0.0,0.0,-0.05,0.05,False
+Small Intestinal Cancer,PHASE3,1,1,1.0,1.0,0.95,1.05,False
+Kaposi sarcoma,PHASE1,1,1,1.0,1.0,0.95,1.05,False
+Pancreatic Cancer,PHASE2,33,14,12.0,0.8571428571428571,0.807142857142857,0.9071428571428571,False
+Skin Melanoma,PHASE1,7,6,5.0,0.8333333333333334,0.7833333333333333,0.8833333333333334,False
+Solid Tumors,PHASE1,74,44,37.0,0.8409090909090909,0.7909090909090909,0.890909090909091,False
+Ovarian Cancer,PHASE3,2,0,0.0,,,,True
+Probiotics,PHASE2,1,0,0.0,,,,True
+Nasopharyngeal Cancer,PHASE2,6,2,2.0,1.0,0.95,1.05,False
+Cytokine Release Syndrome,PHASE2,1,1,0.0,0.0,-0.05,0.05,False
+Head and Neck Squamous Cell Carcinoma,PHASE3,5,2,1.0,0.5,0.45,0.55,False
+Transfusion-dependent Anemia,PHASE4,1,0,0.0,,,,True
+Leukemia,PHASE1,11,9,7.0,0.7777777777777778,0.7277777777777777,0.8277777777777778,False
+Chronic Graft Versus Host Disease,PHASE2,3,2,2.0,1.0,0.95,1.05,False
+Intrahepatic Cholangiocarcinoma,PHASE2,3,0,0.0,,,,True
+Bile Duct Cancer,PHASE2,3,2,2.0,1.0,0.95,1.05,False
+Male Reproductive System Neoplasm,PHASE2,10,7,7.0,1.0,0.95,1.05,False
+High-Grade Glioma,PHASE1,4,1,1.0,1.0,0.95,1.05,False
+Extrahepatic Cholangiocarcinoma,PHASE1,1,0,0.0,,,,True
+Head and Neck Squamous Cell Carcinoma,EARLY_PHASE1,2,2,1.0,0.5,0.45,0.55,False
+Female Reproductive System Neoplasm,PHASE2,23,7,6.0,0.8571428571428571,0.807142857142857,0.9071428571428571,False
+Ependymoma,PHASE1,2,1,1.0,1.0,0.95,1.05,False
+Mismatch Repair Proficient,PHASE2,1,1,0.0,0.0,-0.05,0.05,False
+Bone Sarcoma,PHASE3,1,0,0.0,,,,True
+Gastric Cancer,UNKNOWN,4,3,2.0,0.6666666666666666,0.6166666666666666,0.7166666666666667,False
+HER2-Positive Breast Cancer,PHASE1,4,4,3.0,0.75,0.7,0.8,False
+Urothelial Carcinoma,PHASE2,3,3,0.0,0.0,-0.05,0.05,False
+Rare Neoplasm,PHASE1,1,1,1.0,1.0,0.95,1.05,False
+Mesothelioma,PHASE2,1,0,0.0,,,,True
+CDK Gene Mutation,PHASE2,1,0,0.0,,,,True
+High Grade B-Cell Lymphoma,PHASE2,3,2,2.0,1.0,0.95,1.05,False
+Severe Aplastic Anemia,PHASE3,1,1,1.0,1.0,0.95,1.05,False
+Philadelphia chromosome-negative acute lymphoblastic leukemia,PHASE2,1,1,0.0,0.0,-0.05,0.05,False
+Gastric Cancer,PHASE3,3,1,1.0,1.0,0.95,1.05,False
+Parathyroid Cancer,PHASE3,1,1,1.0,1.0,0.95,1.05,False
+Connective and Soft Tissue Neoplasm,UNKNOWN,3,3,1.0,0.3333333333333333,0.2833333333333333,0.3833333333333333,False
+Ovarian Cancer,UNKNOWN,1,0,0.0,,,,True
+Acute Leukemia,PHASE3,1,0,0.0,,,,True
+Anal Cancer,PHASE2,3,0,0.0,,,,True
+Osteosarcoma,PHASE1,3,3,3.0,1.0,0.95,1.05,False
+Acute Monocytic Leukemia,PHASE2,1,1,0.0,0.0,-0.05,0.05,False
+Acute Myelomonocytic Leukemia,PHASE2,1,1,0.0,0.0,-0.05,0.05,False
+Primary Immune Thrombocytopenia,PHASE2,1,1,0.0,0.0,-0.05,0.05,False
+Contiguous Stage II Adult Diffuse Mixed Cell Lymphoma,PHASE2,1,1,0.0,0.0,-0.05,0.05,False
+Noncontiguous Stage II Adult Diffuse Mixed Cell Lymphoma,PHASE2,1,1,0.0,0.0,-0.05,0.05,False
+Stage I Adult Diffuse Small Cleaved Cell Lymphoma,PHASE2,1,1,0.0,0.0,-0.05,0.05,False
+Recurrent Midline Lethal Granuloma of the Paranasal Sinus and Nasal Cavity,PHASE2,1,1,1.0,1.0,0.95,1.05,False
+"Follicular Helper T-Cell Lymphoma, Angioimmunoblastic-Type",PHASE4,1,0,0.0,,,,True
+Cord Blood Transplant,PHASE2,1,1,0.0,0.0,-0.05,0.05,False
+Endometrial Cancer,UNKNOWN,1,1,1.0,1.0,0.95,1.05,False
+Connective and Soft Tissue Neoplasm,PHASE3,3,3,3.0,1.0,0.95,1.05,False
+Peripheral Primitive Neuroectodermal Tumor,PHASE2,2,2,2.0,1.0,0.95,1.05,False
+Anemia,PHASE2,3,3,3.0,1.0,0.95,1.05,False
+Salivary Gland Cancer,PHASE1,8,8,4.0,0.5,0.45,0.55,False
+Neurotoxicity,PHASE3,1,1,1.0,1.0,0.95,1.05,False
+Kidney Cancer,UNKNOWN,1,1,1.0,1.0,0.95,1.05,False
+Acute Chest Syndrome,PHASE2,1,1,1.0,1.0,0.95,1.05,False
+Endometrial Cancer,PHASE3,1,0,0.0,,,,True
+Rectal Carcinoma,PHASE1,8,8,8.0,1.0,0.95,1.05,False
+Pancreatic Diseases,PHASE1,1,1,1.0,1.0,0.95,1.05,False
+Musculoskeletal Disease,PHASE2,1,1,0.0,0.0,-0.05,0.05,False
+Recurrent Adult Diffuse Mixed Cell Lymphoma,PHASE1,1,1,0.0,0.0,-0.05,0.05,False
+Advanced Stage Cancer,PHASE2,1,1,1.0,1.0,0.95,1.05,False
+Adult T-Cell Leukemia/Lymphoma,PHASE4,1,1,1.0,1.0,0.95,1.05,False
+Intraepithelial Neoplasia,PHASE3,1,1,1.0,1.0,0.95,1.05,False
+Oral Complications,PHASE2,1,1,1.0,1.0,0.95,1.05,False
+Anorectal Cancer,PHASE2,1,0,0.0,,,,True
+Plasma Cell Leukemia,PHASE2,2,1,0.0,0.0,-0.05,0.05,False
+Clear Cell Renal Cell Carcinoma,PHASE2,2,1,1.0,1.0,0.95,1.05,False
+"Blood Loss, Surgical",PHASE4,1,0,0.0,,,,True
+Connective and Soft Tissue Neoplasm,PHASE4,1,1,1.0,1.0,0.95,1.05,False
+Gliosarcoma,PHASE1,2,1,1.0,1.0,0.95,1.05,False
+Paroxysmal Nocturnal Hemoglobinuria,PHASE3,1,0,0.0,,,,True
+T-Cell Non-Hodgkin Lymphoma,PHASE2,7,5,0.0,0.0,-0.05,0.05,False
+Castration-Resistant Prostate Carcinoma,PHASE2,7,3,2.0,0.6666666666666666,0.6166666666666666,0.7166666666666667,False
+Gastric Cancer,PHASE4,2,1,0.0,0.0,-0.05,0.05,False
+Renal Cell Carcinoma,PHASE1,15,11,4.0,0.36363636363636365,0.31363636363636366,0.41363636363636364,False
+Extensive Stage Lung Small Cell Carcinoma,UNKNOWN,1,0,0.0,,,,True
+Tyrosine Kinase Inhibitor,PHASE2,1,0,0.0,,,,True
+Extensive Stage Lung Small Cell Carcinoma,PHASE3,1,1,1.0,1.0,0.95,1.05,False
+Lip and Oral Cavity Cancer,PHASE2,5,5,5.0,1.0,0.95,1.05,False
+"Pain, Postoperative",PHASE3,1,1,1.0,1.0,0.95,1.05,False
+Esophageal Squamous Cell Carcinoma,PHASE1,1,1,1.0,1.0,0.95,1.05,False
+"Pain, Postoperative",UNKNOWN,1,0,0.0,,,,True
+Thoracic Neoplasm,PHASE3,4,3,2.0,0.6666666666666666,0.6166666666666666,0.7166666666666667,False
+Oropharyngeal Cancer,PHASE1,6,4,1.0,0.25,0.2,0.3,False
+T-cell acute lymphoblastic leukemia,PHASE3,1,0,0.0,,,,True
+Central Nervous System Neoplasm,PHASE2,7,7,4.0,0.5714285714285714,0.5214285714285714,0.6214285714285714,False
+Neuroendocrine Carcinoma,PHASE2,1,1,1.0,1.0,0.95,1.05,False
+Thalassemia,PHASE2,1,1,0.0,0.0,-0.05,0.05,False
+Untreated Childhood Supratentorial Primitive Neuroectodermal Tumor,UNKNOWN,1,1,0.0,0.0,-0.05,0.05,False
+Breast Paget Disease,PHASE2,1,1,1.0,1.0,0.95,1.05,False
+Stage I Adult Diffuse Mixed Cell Lymphoma,PHASE2,1,1,0.0,0.0,-0.05,0.05,False
+Stage III Adult Diffuse Mixed Cell Lymphoma,PHASE2,1,1,0.0,0.0,-0.05,0.05,False
+Recurrent Esthesioneuroblastoma of the Paranasal Sinus and Nasal Cavity,PHASE2,1,1,1.0,1.0,0.95,1.05,False
+Actinic Keratosis,PHASE2,1,1,1.0,1.0,0.95,1.05,False
+Inherited Metabolic Disease,PHASE2,1,1,0.0,0.0,-0.05,0.05,False
+Break Through Pain,PHASE3,1,1,1.0,1.0,0.95,1.05,False
+Kidney Disease,PHASE3,1,1,1.0,1.0,0.95,1.05,False
+Primary Myelofibrosis,PHASE1,1,0,0.0,,,,True
+Respiratory Tract Diseases,PHASE1,1,0,0.0,,,,True
+"Anemia, Aplastic",PHASE1,1,1,0.0,0.0,-0.05,0.05,False
+Stage III Adult Diffuse Large Cell Lymphoma,PHASE1,1,1,0.0,0.0,-0.05,0.05,False
+Waldenstrom Macroglobulinemia,PHASE1,1,1,0.0,0.0,-0.05,0.05,False
+Recurrent Lymphoepithelioma of the Oropharynx,PHASE1,1,1,1.0,1.0,0.95,1.05,False
+Thyroid Gland Medullary Carcinoma,PHASE1,1,1,0.0,0.0,-0.05,0.05,False
+Fallopian Tube Cancer,PHASE1,1,1,1.0,1.0,0.95,1.05,False
+Infectious Disorder,PHASE1,1,1,1.0,1.0,0.95,1.05,False
+Thoracic Neoplasm,PHASE2,17,10,4.0,0.4,0.35000000000000003,0.45,False
+T-cell acute lymphoblastic leukemia,PHASE2,2,0,0.0,,,,True
+Hematology,PHASE1,18,11,6.0,0.5454545454545454,0.4954545454545454,0.5954545454545455,False
+Anemia,PHASE4,3,2,2.0,1.0,0.95,1.05,False
+"Complication,Postoperative",PHASE4,1,1,1.0,1.0,0.95,1.05,False
+Central Nervous System Neoplasm,PHASE3,5,3,3.0,1.0,0.95,1.05,False
+Castration-Resistant Prostate Carcinoma,UNKNOWN,1,1,1.0,1.0,0.95,1.05,False
+Leiomyosarcoma,PHASE4,1,1,1.0,1.0,0.95,1.05,False
+Castration-Resistant Prostate Carcinoma,EARLY_PHASE1,1,1,1.0,1.0,0.95,1.05,False
+Extensive Stage Lung Small Cell Carcinoma,PHASE2,3,0,0.0,,,,True
+BRAF V600 Mutation,PHASE1,1,0,0.0,,,,True
+HER-2 Gene Amplification,PHASE1,1,1,0.0,0.0,-0.05,0.05,False
+Bronchopulmonary Dysplasia,PHASE1,1,1,0.0,0.0,-0.05,0.05,False
+Castration-Resistant Prostate Carcinoma,PHASE3,2,1,1.0,1.0,0.95,1.05,False
+Sickle Cell Disease,PHASE1,1,1,1.0,1.0,0.95,1.05,False
+Thoracic Surgery,PHASE1,1,1,0.0,0.0,-0.05,0.05,False
+High Grade B-Cell Lymphoma,PHASE4,1,0,0.0,,,,True
+Respiratory System Neoplasm,PHASE2,3,1,1.0,1.0,0.95,1.05,False
+Respiratory Tract Disease,PHASE2,1,0,0.0,,,,True
+Neoplasm Metastasis,PHASE1,3,3,2.0,0.6666666666666666,0.6166666666666666,0.7166666666666667,False
+Actinic Keratosis,PHASE3,3,3,3.0,1.0,0.95,1.05,False
+Urinary Tract Squamous Cell Carcinoma,PHASE1,1,0,0.0,,,,True
+AML with maturation,PHASE2,2,2,1.0,0.5,0.45,0.55,False
+Gastroesophageal Junction Cancer,PHASE1,6,4,1.0,0.25,0.2,0.3,False
+Central Nervous System Neoplasm,UNKNOWN,1,1,1.0,1.0,0.95,1.05,False
+Long-term Outcome,UNKNOWN,1,1,1.0,1.0,0.95,1.05,False
+Malignant Neoplasm,PHASE2,1,1,0.0,0.0,-0.05,0.05,False
+"Follicular Helper T-Cell Lymphoma, Angioimmunoblastic-Type",PHASE2,1,1,0.0,0.0,-0.05,0.05,False
+Adult T-Cell Leukemia/Lymphoma,PHASE2,6,6,0.0,0.0,-0.05,0.05,False
+Male Breast Cancer,PHASE2,1,1,1.0,1.0,0.95,1.05,False
+Laryngeal Cancer,PHASE2,1,1,1.0,1.0,0.95,1.05,False
+Essential Thrombocythemia,PHASE2,1,1,1.0,1.0,0.95,1.05,False
+Abdominal Neoplasms,PHASE3,1,1,1.0,1.0,0.95,1.05,False
+Pro-Inflammation,PHASE4,1,0,0.0,,,,True
+Burkitt Lymphoma,PHASE1,7,7,1.0,0.14285714285714285,0.09285714285714285,0.19285714285714284,False
+Diffuse Large B-Cell Lymphoma,PHASE1,15,15,5.0,0.3333333333333333,0.2833333333333333,0.3833333333333333,False
+Osteoid Sarcoma,PHASE1,1,0,0.0,,,,True
+Eye Neoplasm,PHASE1,1,1,1.0,1.0,0.95,1.05,False
+Diamond-Blackfan Anemia,PHASE1,1,1,0.0,0.0,-0.05,0.05,False
+Lymphedema,PHASE1,1,1,0.0,0.0,-0.05,0.05,False
+Grade 2 Follicular Lymphoma,PHASE1,6,6,0.0,0.0,-0.05,0.05,False
+Marginal Zone Lymphoma,PHASE1,6,6,0.0,0.0,-0.05,0.05,False
+HIV Infection,PHASE1,1,1,1.0,1.0,0.95,1.05,False
+Renal Cell Carcinoma,PHASE2,12,10,5.0,0.5,0.45,0.55,False
+Neuroendocrine Carcinoma,PHASE1,1,0,0.0,,,,True
+Primary Myelofibrosis,PHASE2,4,3,3.0,1.0,0.95,1.05,False
+De-escalation Therapy,PHASE3,1,0,0.0,,,,True
+Follicular Lymphoma,PHASE2,4,1,1.0,1.0,0.95,1.05,False
+Hematology,EARLY_PHASE1,4,3,3.0,1.0,0.95,1.05,False
+Hematology,PHASE3,4,3,3.0,1.0,0.95,1.05,False
+Castration-Resistant Prostate Carcinoma,PHASE1,4,3,1.0,0.3333333333333333,0.2833333333333333,0.3833333333333333,False
+Recurrent Mucosal Melanoma,PHASE2,1,0,0.0,,,,True
+Oropharyngeal Cancer,PHASE2,4,1,1.0,1.0,0.95,1.05,False
+Human Papilloma Virus,PHASE2,1,0,0.0,,,,True
+Physical Performance,PHASE4,1,1,1.0,1.0,0.95,1.05,False
+Respiratory Tract Diseases,PHASE2,1,0,0.0,,,,True
+Double-Hit Lymphoma,PHASE3,2,0,0.0,,,,True
+Diffuse Large B-Cell Lymphoma,PHASE3,5,0,0.0,,,,True
+Left Ventricular Dysfunction,PHASE3,1,0,0.0,,,,True
+Fallopian Tube Cancer,PHASE2,5,4,2.0,0.5,0.45,0.55,False
+Lip and Oral Cavity Cancer,PHASE1,13,11,4.0,0.36363636363636365,0.31363636363636366,0.41363636363636364,False
+Clear Cell Renal Cell Carcinoma,PHASE1,2,1,0.0,0.0,-0.05,0.05,False
+AML with minimal differentiation,PHASE2,1,1,0.0,0.0,-0.05,0.05,False
+"Anemia, Aplastic",PHASE2,1,1,0.0,0.0,-0.05,0.05,False
+Stage III Adult Diffuse Large Cell Lymphoma,PHASE2,1,1,0.0,0.0,-0.05,0.05,False
+Waldenstrom Macroglobulinemia,PHASE2,2,2,1.0,0.5,0.45,0.55,False
+Recurrent Lymphoepithelioma of the Oropharynx,PHASE2,1,1,1.0,1.0,0.95,1.05,False
+Gliosarcoma,PHASE2,1,1,1.0,1.0,0.95,1.05,False
+Sickle Cell Disease,PHASE3,2,2,0.0,0.0,-0.05,0.05,False
+Thyroid Gland Medullary Carcinoma,PHASE2,1,1,0.0,0.0,-0.05,0.05,False
+Sickle Cell Disease,UNKNOWN,1,1,1.0,1.0,0.95,1.05,False
+Clear Cell Sarcoma,PHASE2,1,1,1.0,1.0,0.95,1.05,False
+Sepsis,PHASE3,1,1,0.0,0.0,-0.05,0.05,False
+Bronchopulmonary Dysplasia,PHASE3,1,1,0.0,0.0,-0.05,0.05,False
+Atherosclerosis,PHASE4,1,0,0.0,,,,True
+Severe Congenital Neutropenia,PHASE1,1,1,1.0,1.0,0.95,1.05,False
+Cirrhosis,PHASE2,1,0,0.0,,,,True
+T-Cell Non-Hodgkin Lymphoma,PHASE1,5,4,0.0,0.0,-0.05,0.05,False
+Thalassemia,PHASE1,1,1,0.0,0.0,-0.05,0.05,False
+Stage I Adult Diffuse Mixed Cell Lymphoma,PHASE1,1,1,0.0,0.0,-0.05,0.05,False
+Stage III Adult Diffuse Mixed Cell Lymphoma,PHASE1,1,1,0.0,0.0,-0.05,0.05,False
+Central Nervous System Neoplasm,PHASE1,2,2,1.0,0.5,0.45,0.55,False
+Recurrent Esthesioneuroblastoma of the Paranasal Sinus and Nasal Cavity,PHASE1,1,1,1.0,1.0,0.95,1.05,False
+Infectious Disorder,PHASE2,1,1,1.0,1.0,0.95,1.05,False
+Non-Small Cell Lung Cancer,PHASE2,47,27,20.0,0.7407407407407407,0.6907407407407407,0.7907407407407407,False
+Liver Cancer,PHASE2,6,3,3.0,1.0,0.95,1.05,False
+Hormone Receptor-Positive Breast Cancer,PHASE2,1,0,0.0,,,,True
+Acute Graft Versus Host Disease,PHASE1,2,1,0.0,0.0,-0.05,0.05,False
+Brain Metastasis,PHASE2,8,2,2.0,1.0,0.95,1.05,False
+Extrahepatic Bile Duct Carcinoma,PHASE1,1,0,0.0,,,,True
+Diffuse Intrinsic Pontine Glioma,PHASE1,2,1,1.0,1.0,0.95,1.05,False
+Ewing Sarcoma,PHASE2,2,1,1.0,1.0,0.95,1.05,False
+Kidney Wilms Tumor,PHASE2,4,4,3.0,0.75,0.7,0.8,False
+Head and Neck Neoplasm,PHASE1,11,9,7.0,0.7777777777777778,0.7277777777777777,0.8277777777777778,False
+Neurofibroma,PHASE2,2,1,1.0,1.0,0.95,1.05,False
+Esophageal Cancer,UNKNOWN,1,0,0.0,,,,True
+Thyroid Cancer,PHASE2,3,2,2.0,1.0,0.95,1.05,False
+Esophageal Cancer,PHASE3,2,1,1.0,1.0,0.95,1.05,False
+Lung Diseases,PHASE2,1,0,0.0,,,,True
+KRAS G12C Mutation,PHASE2,1,0,0.0,,,,True
+Non-Hodgkin Lymphoma,PHASE4,2,1,1.0,1.0,0.95,1.05,False
+Cervical Cancer,PHASE1,4,4,3.0,0.75,0.7,0.8,False
+Bladder Cancer,PHASE2,5,4,0.0,0.0,-0.05,0.05,False
+Cytomegaloviral Infection,PHASE2,1,1,1.0,1.0,0.95,1.05,False
+Graft Versus Host Disease,PHASE2,3,3,3.0,1.0,0.95,1.05,False
+Hemoglobinopathies,PHASE2,1,1,0.0,0.0,-0.05,0.05,False
+Fanconi Anemia,PHASE2,1,1,0.0,0.0,-0.05,0.05,False
+Adult Supratentorial Primitive Neuroectodermal Tumor (PNET),UNKNOWN,1,1,0.0,0.0,-0.05,0.05,False
+Central Nervous System Embryonal Tumor,UNKNOWN,1,1,0.0,0.0,-0.05,0.05,False
+Breast Neoplasm,PHASE4,1,0,0.0,,,,True
+Noncontiguous Stage II Adult Diffuse Large Cell Lymphoma,PHASE2,1,1,0.0,0.0,-0.05,0.05,False
+Noncontiguous Stage II Adult Diffuse Small Cleaved Cell Lymphoma,PHASE2,1,1,0.0,0.0,-0.05,0.05,False
+Stage IV Adult Diffuse Mixed Cell Lymphoma,PHASE2,1,1,0.0,0.0,-0.05,0.05,False
+Testicular Cancer,PHASE2,1,1,0.0,0.0,-0.05,0.05,False
+Hypopharyngeal Cancer,PHASE2,2,1,1.0,1.0,0.95,1.05,False
+Chemotherapeutic Agent Toxicity,PHASE2,1,1,0.0,0.0,-0.05,0.05,False
+Primary Cutaneous T-Cell Non-Hodgkin Lymphoma,PHASE4,1,0,0.0,,,,True
+Chronic Myeloid Leukemia,PHASE4,1,1,1.0,1.0,0.95,1.05,False
+Tumors,PHASE2,2,2,2.0,1.0,0.95,1.05,False
+Hypercalcemia of Malignancy,UNKNOWN,1,1,0.0,0.0,-0.05,0.05,False
+Cancers Expressing HER-2 and/or CEA,PHASE1,1,1,1.0,1.0,0.95,1.05,False
+Glioma,PHASE1,5,5,5.0,1.0,0.95,1.05,False
+PTEN Hamartoma Syndrome,PHASE1,1,1,0.0,0.0,-0.05,0.05,False
+Conditioning,PHASE2,1,0,0.0,,,,True
+Cardiovascular Neoplasm,PHASE1,1,1,1.0,1.0,0.95,1.05,False
+Mantle Cell Lymphoma,PHASE1,6,6,0.0,0.0,-0.05,0.05,False
+Epstein-Barr Virus Infection,PHASE1,1,1,0.0,0.0,-0.05,0.05,False
+Hairy Cell Leukemia,PHASE1,4,4,1.0,0.25,0.2,0.3,False
+Gestational Trophoblastic Neoplasia,PHASE2,1,1,1.0,1.0,0.95,1.05,False
+Aplastic Anemia,PHASE1,1,1,1.0,1.0,0.95,1.05,False
+FGFR2 Gene Translocation,PHASE2,1,0,0.0,,,,True
+Soft Tissue Sarcoma,PHASE1,4,2,1.0,0.5,0.45,0.55,False
+Hepatocellular Carcinoma,PHASE1,8,2,0.0,0.0,-0.05,0.05,False
+Breast Cancer,PHASE2,58,43,34.0,0.7906976744186046,0.7406976744186046,0.8406976744186047,False
+Colorectal Cancer,PHASE2,31,20,9.0,0.45,0.4,0.5,False
+HER2-Negative Breast Cancer,UNKNOWN,1,0,0.0,,,,True
+Immune Effector Cell Associated Neurotoxicity Syndrome,PHASE2,1,1,0.0,0.0,-0.05,0.05,False
+Small Cell Lung Cancer,PHASE2,4,1,0.0,0.0,-0.05,0.05,False
+Glioblastoma,PHASE1,10,5,4.0,0.8,0.75,0.8500000000000001,False
+Acute Myeloid Leukemia,PHASE1,20,11,4.0,0.36363636363636365,0.31363636363636366,0.41363636363636364,False
+Hip Fractures,PHASE4,1,1,1.0,1.0,0.95,1.05,False
+Inflammation,PHASE4,1,1,1.0,1.0,0.95,1.05,False
+Palliative Care,PHASE2,1,0,0.0,,,,True
+COVID-19,PHASE1,1,1,1.0,1.0,0.95,1.05,False
+Epithelial Neoplasm,PHASE3,4,2,2.0,1.0,0.95,1.05,False
+Cancer,PHASE4,1,0,0.0,,,,True
+Anlotinib,PHASE2,1,0,0.0,,,,True
+Digestive System Neoplasm,UNKNOWN,4,1,1.0,1.0,0.95,1.05,False
+Neurofibromatosis,PHASE2,2,1,1.0,1.0,0.95,1.05,False
+Myeloproliferative Neoplasm,PHASE2,6,5,5.0,1.0,0.95,1.05,False
+Postoperative Pain,PHASE3,1,1,1.0,1.0,0.95,1.05,False
+Neoplasms,PHASE2,5,2,2.0,1.0,0.95,1.05,False
+CD147 Positive,EARLY_PHASE1,1,0,0.0,,,,True
+Cardiotoxicity,PHASE3,1,0,0.0,,,,True
+Chronic Lymphocytic Leukemia,PHASE2,14,12,10.0,0.8333333333333334,0.7833333333333333,0.8833333333333334,False
+Primary Peritoneal Cancer,PHASE2,4,3,2.0,0.6666666666666666,0.6166666666666666,0.7166666666666667,False
+Anastomotic Leak,PHASE2,1,1,1.0,1.0,0.95,1.05,False
+Digestive System Neoplasm,EARLY_PHASE1,1,0,0.0,,,,True
+Epithelial Neoplasm,EARLY_PHASE1,2,2,2.0,1.0,0.95,1.05,False
+Neuroendocrine Tumors,PHASE1,4,3,3.0,1.0,0.95,1.05,False
+Plasmacytoma,EARLY_PHASE1,1,1,1.0,1.0,0.95,1.05,False
+T Lymphoblastic Lymphoma,PHASE3,1,0,0.0,,,,True
+Malignant Melanoma,PHASE1,2,2,2.0,1.0,0.95,1.05,False
+Renal Pelvis Carcinoma,PHASE1,1,0,0.0,,,,True
+Ovarian Clear Cell Adenocarcinoma,PHASE2,1,0,0.0,,,,True
+Elderly,UNKNOWN,1,1,1.0,1.0,0.95,1.05,False
+Malignant Tumor,UNKNOWN,1,1,1.0,1.0,0.95,1.05,False
+Contiguous Stage II Adult Diffuse Large Cell Lymphoma,PHASE2,1,1,0.0,0.0,-0.05,0.05,False
+Small Lymphocytic Lymphoma,PHASE2,11,11,5.0,0.45454545454545453,0.40454545454545454,0.5045454545454545,False
+Stage III Adult Diffuse Small Cleaved Cell Lymphoma,PHASE2,1,1,0.0,0.0,-0.05,0.05,False
+"Peripheral T-Cell Lymphoma, Not Otherwise Specified",PHASE4,1,0,0.0,,,,True
+Sentinel Lymph Node,UNKNOWN,1,1,1.0,1.0,0.95,1.05,False
+Lung Adenocarcinoma,UNKNOWN,1,1,1.0,1.0,0.95,1.05,False
+Hepatectomy,PHASE4,1,1,1.0,1.0,0.95,1.05,False
+Lymphocytic Colitis,PHASE3,1,1,1.0,1.0,0.95,1.05,False
+Ovarian Sex Cord-Stromal Tumor,PHASE2,1,0,0.0,,,,True
+Testicular Non-Seminomatous Germ Cell Tumor,PHASE2,4,4,4.0,1.0,0.95,1.05,False
+Nonneoplastic Condition,PHASE1,1,1,1.0,1.0,0.95,1.05,False
+Recurrent Childhood Large Cell Lymphoma,PHASE1,1,1,1.0,1.0,0.95,1.05,False
+Plasma Cell Neoplasm,PHASE2,3,3,2.0,0.6666666666666666,0.6166666666666666,0.7166666666666667,False
+Philadelphia Chromosome Positive Acute Lymphocytic Leukemia,PHASE2,1,1,1.0,1.0,0.95,1.05,False
+PTEN Hamartoma Tumor Syndrome,PHASE1,1,1,0.0,0.0,-0.05,0.05,False
+Malignant Peripheral Nerve Sheath Tumor,PHASE1,1,0,0.0,,,,True
+Opportunistic Infections,PHASE2,1,1,1.0,1.0,0.95,1.05,False
+Osteopetrosis,PHASE1,1,1,0.0,0.0,-0.05,0.05,False
+Anaplastic Large Cell Lymphoma,PHASE1,1,1,0.0,0.0,-0.05,0.05,False
+Recurrent Adult Diffuse Small Cleaved Cell Lymphoma,PHASE1,1,1,0.0,0.0,-0.05,0.05,False
+"Lymphoma, Low-Grade",PHASE4,1,1,1.0,1.0,0.95,1.05,False
+Epithelial Neoplasm,UNKNOWN,1,1,0.0,0.0,-0.05,0.05,False
+Sarcoma,PHASE3,1,1,1.0,1.0,0.95,1.05,False
+Head and Neck Squamous Cell Carcinoma,PHASE2,8,3,3.0,1.0,0.95,1.05,False
+WHO Grade 4 Glioma,PHASE2,1,0,0.0,,,,True
+Pancreatic Cancer,UNKNOWN,2,0,0.0,,,,True
+Ovarian Cancer,PHASE2,18,15,12.0,0.8,0.75,0.8500000000000001,False
+Inflammatory Bowel Disease,PHASE3,1,0,0.0,,,,True
+Nasopharyngeal Cancer,PHASE3,3,1,1.0,1.0,0.95,1.05,False
+Gastric Cancer,PHASE2,13,5,3.0,0.6,0.5499999999999999,0.65,False
+Triple-Negative Breast Cancer,PHASE1,6,3,2.0,0.6666666666666666,0.6166666666666666,0.7166666666666667,False
+Intraepithelial Neoplasia,PHASE2,3,1,1.0,1.0,0.95,1.05,False
+Vulvar Melanoma,PHASE2,1,0,0.0,,,,True
+aGVHD,PHASE3,1,0,0.0,,,,True
+Exercise-Induced Anemia,PHASE4,1,1,1.0,1.0,0.95,1.05,False
+Chronic Leukemia,PHASE2,2,1,0.0,0.0,-0.05,0.05,False
+Testicular Germ Cell Cancer,PHASE2,5,4,4.0,1.0,0.95,1.05,False
+Acute Leukemia,PHASE2,2,1,1.0,1.0,0.95,1.05,False
+Analgesia,PHASE3,1,1,1.0,1.0,0.95,1.05,False
+Pancreatic Cancer,PHASE3,1,1,0.0,0.0,-0.05,0.05,False
+Mismatch Repair Deficiency,PHASE2,1,0,0.0,,,,True
+High Grade B-Cell Lymphoma,PHASE3,1,0,0.0,,,,True
+Female Reproductive System Neoplasm,PHASE3,1,1,1.0,1.0,0.95,1.05,False
+Connective and Soft Tissue Neoplasm,PHASE2,4,3,3.0,1.0,0.95,1.05,False
+Anemia,PHASE3,5,5,5.0,1.0,0.95,1.05,False
+Adoptive Cellular Immunotherapy,PHASE2,1,0,0.0,,,,True
+Endometrial Cancer,PHASE2,4,3,3.0,1.0,0.95,1.05,False
+Androgen Receptor Gene Overexpression,PHASE2,1,1,0.0,0.0,-0.05,0.05,False
+Grade 1 Follicular Lymphoma,PHASE2,9,7,1.0,0.14285714285714285,0.09285714285714285,0.19285714285714284,False
+Breast Ductal Carcinoma In Situ,PHASE1,1,1,0.0,0.0,-0.05,0.05,False
+Intrahepatic Cholangiocarcinoma,UNKNOWN,1,1,0.0,0.0,-0.05,0.05,False
+Female Reproductive System Neoplasm,UNKNOWN,1,1,1.0,1.0,0.95,1.05,False
+Musculoskeletal Disease,PHASE3,1,1,0.0,0.0,-0.05,0.05,False
+Rivaroxaban,PHASE4,1,1,1.0,1.0,0.95,1.05,False
+Peripheral Primitive Neuroectodermal Tumor,UNKNOWN,1,1,0.0,0.0,-0.05,0.05,False
+T-Cell Non-Hodgkin Lymphoma,PHASE4,1,0,0.0,,,,True
+Refractory Autoimmune Cytopenia(s),PHASE2,1,1,1.0,1.0,0.95,1.05,False
+Sorafenib,PHASE4,1,1,1.0,1.0,0.95,1.05,False
+Brain Edema,PHASE2,1,1,0.0,0.0,-0.05,0.05,False
+Androgen-insensitive Prostate Cancer,PHASE1,1,1,1.0,1.0,0.95,1.05,False
+Advanced Stage Cancer,PHASE3,1,1,1.0,1.0,0.95,1.05,False
+Anal Cancer,UNKNOWN,1,1,0.0,0.0,-0.05,0.05,False
+Kidney Cancer,PHASE2,2,1,0.0,0.0,-0.05,0.05,False
+Stage IV Adult Diffuse Small Cleaved Cell Lymphoma,PHASE1,1,1,0.0,0.0,-0.05,0.05,False
+"Metastases, Neoplasm",PHASE2,1,1,1.0,1.0,0.95,1.05,False
+Epithelial Neoplasm,PHASE1,17,12,5.0,0.4166666666666667,0.3666666666666667,0.4666666666666667,False
+Colon Carcinoma,PHASE2,10,7,5.0,0.7142857142857143,0.6642857142857143,0.7642857142857143,False
+Acute Myeloid Leukemia,UNKNOWN,2,0,0.0,,,,True
+Myelodysplastic Syndrome,PHASE2,16,13,9.0,0.6923076923076923,0.6423076923076922,0.7423076923076923,False
+Hepatocellular Carcinoma,PHASE3,4,0,0.0,,,,True
+Non-Hodgkin Lymphoma,PHASE2,23,18,10.0,0.5555555555555556,0.5055555555555555,0.6055555555555556,False
+Malignant Tumor,PHASE1,1,1,1.0,1.0,0.95,1.05,False
+Tumor Positron-Emission Tomography,PHASE2,1,1,1.0,1.0,0.95,1.05,False
+B-Cell Non-Hodgkin Lymphoma,PHASE1,7,2,1.0,0.5,0.45,0.55,False
+Peritoneal and Retroperitoneal Neoplasm,PHASE1,3,2,2.0,1.0,0.95,1.05,False
+Acral Melanoma,PHASE2,1,0,0.0,,,,True
+Medulloblastoma,PHASE1,3,1,1.0,1.0,0.95,1.05,False
+Digestive System Neoplasm,PHASE1,24,18,13.0,0.7222222222222222,0.6722222222222222,0.7722222222222223,False
+Uveal Melanoma,PHASE2,10,6,6.0,1.0,0.95,1.05,False
+Sarcoma,PHASE1,4,3,2.0,0.6666666666666666,0.6166666666666666,0.7166666666666667,False
+Classic Hodgkin Lymphoma,PHASE2,2,1,1.0,1.0,0.95,1.05,False
+Pregnancy Related,PHASE4,1,0,0.0,,,,True
+Anemia of Pregnancy,PHASE4,1,0,0.0,,,,True
+Endocrine Neoplasm,PHASE2,3,2,2.0,1.0,0.95,1.05,False
+Hepatocellular Carcinoma,UNKNOWN,3,2,1.0,0.5,0.45,0.55,False
+Non-Clear Cell Renal Cell Carcinoma,PHASE1,3,1,1.0,1.0,0.95,1.05,False
+Chronic Myeloid Leukemia,PHASE2,5,5,5.0,1.0,0.95,1.05,False
+HER-2 Protein Overexpression,PHASE1,1,1,0.0,0.0,-0.05,0.05,False
+Neuroendocrine Tumors,UNKNOWN,1,0,0.0,,,,True
+Gallbladder Carcinoma,PHASE2,1,0,0.0,,,,True
+Acute Myeloid Leukemia,PHASE3,4,2,1.0,0.5,0.45,0.55,False
+Glioblastoma,PHASE3,2,0,0.0,,,,True
+Glioblastoma,EARLY_PHASE1,1,0,0.0,,,,True
+HER2-Negative Breast Cancer,PHASE1,1,1,1.0,1.0,0.95,1.05,False
+Primary Cutaneous T-Cell Non-Hodgkin Lymphoma,PHASE2,6,6,2.0,0.3333333333333333,0.2833333333333333,0.3833333333333333,False
+Urinary System Neoplasm,UNKNOWN,1,0,0.0,,,,True
+Hodgkin Lymphoma,PHASE2,16,10,5.0,0.5,0.45,0.55,False
+Neuroendocrine Tumors,PHASE3,1,1,1.0,1.0,0.95,1.05,False
+Graft Versus Host Disease,PHASE4,1,0,0.0,,,,True
+Neuroendocrine Tumors,EARLY_PHASE1,1,1,1.0,1.0,0.95,1.05,False
+Endometrial Clear Cell Adenocarcinoma,PHASE2,1,0,0.0,,,,True
+Advanced Gastrointestinal Carcinoma,PHASE1,1,1,0.0,0.0,-0.05,0.05,False
+Pre-menopausal Breast Cancer,PHASE1,1,1,1.0,1.0,0.95,1.05,False
+Soft Tissue Sarcoma,UNKNOWN,1,1,0.0,0.0,-0.05,0.05,False
+Breast Neoplasm,PHASE2,8,7,7.0,1.0,0.95,1.05,False
+Contiguous Stage II Adult Diffuse Small Cleaved Cell Lymphoma,PHASE2,1,1,0.0,0.0,-0.05,0.05,False
+Grade 3 Follicular Lymphoma,PHASE2,7,7,1.0,0.14285714285714285,0.09285714285714285,0.19285714285714284,False
+Extranodal Marginal Zone Lymphoma,PHASE2,2,2,1.0,0.5,0.45,0.55,False
+Enteropathy-Associated T-Cell Lymphoma,PHASE4,1,0,0.0,,,,True
+Non-Small Cell Lung Cancer,PHASE4,1,1,1.0,1.0,0.95,1.05,False
+Germ Cell Tumor,PHASE1,2,2,2.0,1.0,0.95,1.05,False
+Gastrointestinal Stromal Tumor,PHASE2,1,1,1.0,1.0,0.95,1.05,False
+Urinary System Neoplasm,PHASE3,1,1,0.0,0.0,-0.05,0.05,False
+T Lymphoblastic Lymphoma,PHASE1,1,0,0.0,,,,True
+Thyroid Gland Papillary Carcinoma,PHASE1,1,1,1.0,1.0,0.95,1.05,False
+Lung Adenocarcinoma,PHASE1,1,1,1.0,1.0,0.95,1.05,False
+Chondrosarcoma,PHASE1,1,1,1.0,1.0,0.95,1.05,False
+"Anemia, Sickle Cell",PHASE1,1,1,0.0,0.0,-0.05,0.05,False
+Post-Transplant Lymphoproliferative Disorder,PHASE1,1,1,0.0,0.0,-0.05,0.05,False
+Mycosis Fungoides and Sezary Syndrome,PHASE1,9,9,0.0,0.0,-0.05,0.05,False
+Anaplastic Astrocytoma,PHASE2,1,1,1.0,1.0,0.95,1.05,False
+Hormonal Cycling,PHASE2,1,1,1.0,1.0,0.95,1.05,False
+Peritoneal Malignant Mesothelioma,PHASE1,1,0,0.0,,,,True
+Hematology,PHASE2,27,13,9.0,0.6923076923076923,0.6423076923076922,0.7423076923076923,False
+Fallopian Tube Cancer,PHASE3,2,0,0.0,,,,True
+Follicular Lymphoma,PHASE3,2,1,1.0,1.0,0.95,1.05,False
+Sickle Cell Disease,PHASE2,2,1,1.0,1.0,0.95,1.05,False
+Thoracic Neoplasm,PHASE1,9,7,7.0,1.0,0.95,1.05,False
+Diffuse Large B-Cell Lymphoma,PHASE2,28,21,11.0,0.5238095238095238,0.47380952380952385,0.5738095238095239,False
+Cirrhosis,PHASE3,1,0,0.0,,,,True
+Gastroesophageal Junction Cancer,PHASE2,4,1,1.0,1.0,0.95,1.05,False
+T-cell acute lymphoblastic leukemia,PHASE1,2,0,0.0,,,,True
+Adjuvant Therapy,PHASE2,1,0,0.0,,,,True
+Neoplasms by Histologic Type,PHASE2,1,0,0.0,,,,True
+Oropharyngeal Cancer,PHASE3,1,1,1.0,1.0,0.95,1.05,False
+Adult T-Cell Leukemia/Lymphoma,PHASE1,6,6,0.0,0.0,-0.05,0.05,False
+Osteoid Sarcoma,PHASE2,1,0,0.0,,,,True
+Toripalimab,PHASE2,1,0,0.0,,,,True
+Merkel Cell Carcinoma,PHASE2,1,0,0.0,,,,True
+Chronic Kidney Disease Requiring Chronic Dialysis,PHASE3,1,1,1.0,1.0,0.95,1.05,False
+Venous Thromboembolism,PHASE3,1,1,0.0,0.0,-0.05,0.05,False
+Grade 2 Follicular Lymphoma,PHASE2,9,7,1.0,0.14285714285714285,0.09285714285714285,0.19285714285714284,False
+Congenital Hyperinsulinism,PHASE3,1,1,1.0,1.0,0.95,1.05,False
+Parkinson Disease,PHASE3,1,1,1.0,1.0,0.95,1.05,False
+Solid Tumors,PHASE4,1,0,0.0,,,,True
+Laryngeal Cancer,PHASE1,9,7,1.0,0.14285714285714285,0.09285714285714285,0.19285714285714284,False
+Eye Neoplasm,PHASE2,4,3,3.0,1.0,0.95,1.05,False
+Uterine Cancer,PHASE2,1,1,1.0,1.0,0.95,1.05,False
+Epidural Anesthesia,UNKNOWN,1,1,1.0,1.0,0.95,1.05,False
+Malignant Neoplasm,PHASE1,2,2,1.0,0.5,0.45,0.55,False
+Diamond-Blackfan Anemia,PHASE2,1,1,0.0,0.0,-0.05,0.05,False
+Lymphedema,PHASE2,1,1,0.0,0.0,-0.05,0.05,False
+Burkitt Lymphoma,PHASE2,8,8,2.0,0.25,0.2,0.3,False
+Marginal Zone Lymphoma,PHASE2,7,7,1.0,0.14285714285714285,0.09285714285714285,0.19285714285714284,False
+Neoplasm Metastasis,PHASE2,2,2,1.0,0.5,0.45,0.55,False
+Malignant Epithelial Mesothelioma,PHASE1,1,1,0.0,0.0,-0.05,0.05,False
+Bacterial Vaginosis,PHASE3,1,1,0.0,0.0,-0.05,0.05,False
+Recurrent Neuroblastoma,PHASE1,1,1,1.0,1.0,0.95,1.05,False
+Double-Hit Lymphoma,PHASE2,2,0,0.0,,,,True
+"Follicular Helper T-Cell Lymphoma, Angioimmunoblastic-Type",PHASE1,1,1,0.0,0.0,-0.05,0.05,False
+Male Breast Cancer,PHASE1,1,1,1.0,1.0,0.95,1.05,False
+Severe Aplastic Anemia (SAA),PHASE2,1,1,1.0,1.0,0.95,1.05,False
+HIV Infection,PHASE2,1,1,1.0,1.0,0.95,1.05,False
+Epithelial Neoplasm,PHASE2,21,11,9.0,0.8181818181818182,0.7681818181818182,0.8681818181818183,False
+Primary Peritoneal Cancer,PHASE3,2,0,0.0,,,,True
+Aplastic Anemia,PHASE4,1,0,0.0,,,,True
+Colorectal Cancer,PHASE3,9,4,4.0,1.0,0.95,1.05,False
+Post-Transplant Lymphoproliferative Disorder,PHASE2,4,1,0.0,0.0,-0.05,0.05,False
+B-Cell Non-Hodgkin Lymphoma,PHASE2,7,2,2.0,1.0,0.95,1.05,False
+HER2-Negative Breast Cancer,PHASE2,1,0,0.0,,,,True
+Breast Cancer,PHASE3,11,3,2.0,0.6666666666666666,0.6166666666666666,0.7166666666666667,False
+T Lymphoblastic Lymphoma,PHASE2,3,1,1.0,1.0,0.95,1.05,False
+Anaplastic Astrocytoma,PHASE1,5,2,2.0,1.0,0.95,1.05,False
+Neoplasms,EARLY_PHASE1,1,1,1.0,1.0,0.95,1.05,False
+Cancer-Related Anemia,PHASE3,1,0,0.0,,,,True
+Breast Cancer,UNKNOWN,5,4,2.0,0.5,0.45,0.55,False
+Gallbladder Carcinoma,PHASE1,3,0,0.0,,,,True
+Digestive System Neoplasm,PHASE2,25,16,13.0,0.8125,0.7625,0.8625,False
+Myelodysplastic Syndrome,PHASE1,11,9,5.0,0.5555555555555556,0.5055555555555555,0.6055555555555556,False
+Lung Adenocarcinoma,PHASE2,3,2,2.0,1.0,0.95,1.05,False
+Uveal Melanoma,PHASE1,5,3,2.0,0.6666666666666666,0.6166666666666666,0.7166666666666667,False
+Thyroid Gland Papillary Carcinoma,PHASE2,1,1,1.0,1.0,0.95,1.05,False
+Prostate Neuroendocrine Carcinoma,PHASE2,1,0,0.0,,,,True
+Colorectal Cancer,UNKNOWN,1,0,0.0,,,,True
+Sarcoma,PHASE2,5,2,1.0,0.5,0.45,0.55,False
+Idiopathic Thrombocytopenic Purpura,PHASE3,1,1,1.0,1.0,0.95,1.05,False
+Maintenance,PHASE2,1,0,0.0,,,,True
+Gastro-esophageal Cancer,PHASE1,1,0,0.0,,,,True
+Plasma Cell Neoplasm,EARLY_PHASE1,1,1,1.0,1.0,0.95,1.05,False
+Opportunistic Infections,PHASE3,1,1,1.0,1.0,0.95,1.05,False
+Chondrosarcoma,PHASE2,1,1,1.0,1.0,0.95,1.05,False
+Breast Neoplasm,PHASE1,4,3,3.0,1.0,0.95,1.05,False
+AML without maturation,PHASE2,1,1,0.0,0.0,-0.05,0.05,False
+"Anemia, Sickle Cell",PHASE2,1,1,0.0,0.0,-0.05,0.05,False
+Non-Hodgkin Lymphoma,PHASE1,16,13,5.0,0.38461538461538464,0.33461538461538465,0.4346153846153846,False
+Mycosis Fungoides and Sezary Syndrome,PHASE2,10,10,1.0,0.1,0.05,0.15000000000000002,False
+Chronic Lymphocytic Leukemia,PHASE3,1,1,0.0,0.0,-0.05,0.05,False
+Pineoblastoma,PHASE2,1,1,1.0,1.0,0.95,1.05,False
+Medulloblastoma,PHASE2,2,2,2.0,1.0,0.95,1.05,False
+Chronic Kidney Disease,PHASE4,1,1,1.0,1.0,0.95,1.05,False
+Non-Clear Cell Renal Cell Carcinoma,PHASE2,2,2,2.0,1.0,0.95,1.05,False
+Myeloproliferative Neoplasm,PHASE3,2,2,2.0,1.0,0.95,1.05,False
+Primary Amyloidosis,PHASE1,1,1,1.0,1.0,0.95,1.05,False
+Peritoneal and Retroperitoneal Neoplasm,PHASE2,2,2,0.0,0.0,-0.05,0.05,False
+Germ Cell Tumor,PHASE2,3,3,3.0,1.0,0.95,1.05,False
+Musculoskeletal Complications,UNKNOWN,1,1,0.0,0.0,-0.05,0.05,False
+End-Stage Renal Disease,PHASE4,1,0,0.0,,,,True
+Oxidative Stress,PHASE4,1,0,0.0,,,,True
+Colon Carcinoma,PHASE1,12,11,10.0,0.9090909090909091,0.859090909090909,0.9590909090909091,False
+Hodgkin Lymphoma,PHASE1,7,7,2.0,0.2857142857142857,0.2357142857142857,0.3357142857142857,False
+Tumor Positron-Emission Tomography,PHASE1,1,1,1.0,1.0,0.95,1.05,False
+Endocrine Neoplasm,PHASE1,2,2,2.0,1.0,0.95,1.05,False
+Primary Cutaneous T-Cell Non-Hodgkin Lymphoma,PHASE1,5,5,1.0,0.2,0.15000000000000002,0.25,False
+Contiguous Stage II Adult Diffuse Small Cleaved Cell Lymphoma,PHASE1,1,1,0.0,0.0,-0.05,0.05,False
+Grade 3 Follicular Lymphoma,PHASE1,6,6,0.0,0.0,-0.05,0.05,False
+Extranodal Marginal Zone Lymphoma,PHASE1,1,1,0.0,0.0,-0.05,0.05,False
+Gastrointestinal Stromal Tumor,PHASE1,1,1,1.0,1.0,0.95,1.05,False
+Drug/Agent Toxicity by Tissue/Organ,PHASE1,1,0,0.0,,,,True
+Plasma Cell Neoplasm,PHASE3,1,1,1.0,1.0,0.95,1.05,False
+FGFR Mutation,PHASE2,1,0,0.0,,,,True
+Glioblastoma,PHASE2,12,8,7.0,0.875,0.825,0.925,False
+Colorectal Cancer,PHASE1,14,10,9.0,0.9,0.85,0.9500000000000001,False
+Endocrine Neoplasm,UNKNOWN,1,0,0.0,,,,True
+Underwent Surgery Within 6 Weeks and Postoperative Assessment Indicated High-risk Factors,PHASE3,1,0,0.0,,,,True
+Soft Tissue Sarcoma,PHASE2,3,2,1.0,0.5,0.45,0.55,False
+Colon Carcinoma,PHASE3,4,0,0.0,,,,True
+PTEN Hamartoma Tumor Syndrome,PHASE2,1,1,0.0,0.0,-0.05,0.05,False
+Hepatocellular Carcinoma,PHASE2,11,3,2.0,0.6666666666666666,0.6166666666666666,0.7166666666666667,False
+Malignant Ascites,PHASE3,1,0,0.0,,,,True
+Myelodysplastic Syndrome,UNKNOWN,1,0,0.0,,,,True
+Myelodysplastic Syndrome,PHASE3,5,4,4.0,1.0,0.95,1.05,False
+WHO Grade 2 Glioma,PHASE1,1,0,0.0,,,,True
+Chronic Lymphocytic Leukemia,PHASE1,11,5,5.0,1.0,0.95,1.05,False
+Small Lymphocytic Lymphoma,PHASE1,12,10,4.0,0.4,0.35000000000000003,0.45,False
+Urinary System Neoplasm,PHASE2,4,1,1.0,1.0,0.95,1.05,False
+"Neoplasm, Experimental",PHASE1,1,0,0.0,,,,True
+Acute Myeloid Leukemia,PHASE2,29,23,6.0,0.2608695652173913,0.2108695652173913,0.3108695652173913,False
+Breast Cancer,PHASE1,42,37,25.0,0.6756756756756757,0.6256756756756756,0.7256756756756757,False
+Central Nervous System Lymphoma,PHASE2,1,0,0.0,,,,True
+Malignant Peripheral Nerve Sheath Tumor,PHASE2,1,0,0.0,,,,True
+HER2-positive Gastric Cancer,PHASE1,1,1,0.0,0.0,-0.05,0.05,False
+Non-Hodgkin Lymphoma,EARLY_PHASE1,1,0,0.0,,,,True
+Gastrointestinal Stromal Tumor,UNKNOWN,1,0,0.0,,,,True
+Neuroendocrine Tumors,PHASE2,3,1,1.0,1.0,0.95,1.05,False
+Child,PHASE2,1,0,0.0,,,,True
+Non-Hodgkin Lymphoma,PHASE3,4,2,2.0,1.0,0.95,1.05,False
+Fibroblast Growth Factor Basic Form Measurement,PHASE1,1,0,0.0,,,,True
+Small Cell Lung Cancer,PHASE1,1,1,1.0,1.0,0.95,1.05,False
+Chronic Myeloid Leukemia,PHASE3,1,1,1.0,1.0,0.95,1.05,False
+HER-2 Negatived Gastric Cancer,PHASE2,1,0,0.0,,,,True
+Parenteral Nutrition,PHASE3,1,0,0.0,,,,True
+Fast-track,PHASE3,1,0,0.0,,,,True
+Malignant Melanoma,PHASE2,3,3,1.0,0.3333333333333333,0.2833333333333333,0.3833333333333333,False
+Urinary Tract Carcinoma,PHASE1,1,0,0.0,,,,True
+Genitourinary System Neoplasm,PHASE1,1,0,0.0,,,,True
+Osteopetrosis,PHASE2,1,1,0.0,0.0,-0.05,0.05,False
+Recurrence,PHASE4,1,1,1.0,1.0,0.95,1.05,False
+Anaplastic Large Cell Lymphoma,PHASE2,1,1,0.0,0.0,-0.05,0.05,False
+Recurrent Adult Diffuse Small Cleaved Cell Lymphoma,PHASE2,2,2,1.0,0.5,0.45,0.55,False
+Neoplasms,PHASE1,10,9,8.0,0.8888888888888888,0.8388888888888888,0.9388888888888889,False
+Hodgkin Lymphoma,PHASE3,2,1,1.0,1.0,0.95,1.05,False
+Oral Complications of Radiation Therapy,PHASE3,1,1,1.0,1.0,0.95,1.05,False
+Plasma Cell Neoplasm,PHASE1,3,3,3.0,1.0,0.95,1.05,False
+Polycythemia Vera,PHASE2,1,1,0.0,0.0,-0.05,0.05,False
+Neurofibromatosis,PHASE1,1,0,0.0,,,,True
+Contiguous Stage II Adult Diffuse Large Cell Lymphoma,PHASE1,1,1,0.0,0.0,-0.05,0.05,False
+Stage III Adult Diffuse Small Cleaved Cell Lymphoma,PHASE1,1,1,0.0,0.0,-0.05,0.05,False
+Myeloproliferative Neoplasm,PHASE1,1,1,1.0,1.0,0.95,1.05,False
+Small Intestinal Adenocarcinoma,PHASE2,1,0,0.0,,,,True
+Non-Small Cell Lung Cancer,PHASE1,40,28,17.0,0.6071428571428571,0.557142857142857,0.6571428571428571,False
+Glioma,PHASE2,4,1,1.0,1.0,0.95,1.05,False
+PTEN Hamartoma Syndrome,PHASE2,1,1,0.0,0.0,-0.05,0.05,False
+Warm Autoimmune Hemolytic Anemia,PHASE3,1,0,0.0,,,,True
+Mantle Cell Lymphoma,PHASE2,9,7,1.0,0.14285714285714285,0.09285714285714285,0.19285714285714284,False
+Bladder Cancer,PHASE1,7,3,2.0,0.6666666666666666,0.6166666666666666,0.7166666666666667,False
+Liver Cancer,PHASE1,7,5,4.0,0.8,0.75,0.8500000000000001,False
+Head and Neck Neoplasm,PHASE2,25,13,8.0,0.6153846153846154,0.5653846153846154,0.6653846153846155,False
+Pleural Malignant Mesothelioma,PHASE1,1,1,1.0,1.0,0.95,1.05,False
+Kidney Wilms Tumor,PHASE1,3,2,2.0,1.0,0.95,1.05,False
+Ewing Sarcoma,PHASE1,2,0,0.0,,,,True
+"Anemia, Iron Deficiency",PHASE4,1,0,0.0,,,,True
+Angiogenesis,PHASE2,1,0,0.0,,,,True
+Antineoplastic Agents,PHASE2,1,0,0.0,,,,True
+Thyroid Cancer,PHASE1,1,0,0.0,,,,True
+Rhabdomyosarcoma,PHASE3,2,0,0.0,,,,True
+Chronic Pancreatitis,PHASE2,1,1,1.0,1.0,0.95,1.05,False
+Neoadjuvant Treatment,PHASE2,1,0,0.0,,,,True
+Acute Lymphoblastic Leukemia,EARLY_PHASE1,1,0,0.0,,,,True
+Biliary Tract Cancer,UNKNOWN,1,0,0.0,,,,True
+Carcinoma of Unknown Primary,UNKNOWN,1,0,0.0,,,,True
+Carcinoma of Unknown Primary,PHASE3,1,1,1.0,1.0,0.95,1.05,False
+Cervical Cancer,PHASE2,9,9,7.0,0.7777777777777778,0.7277777777777777,0.8277777777777778,False
+Prostate Cancer,PHASE3,8,7,4.0,0.5714285714285714,0.5214285714285714,0.6214285714285714,False
+Brain Metastasis,PHASE1,4,3,3.0,1.0,0.95,1.05,False
+Hormone Receptor-Positive Breast Cancer,PHASE1,2,2,2.0,1.0,0.95,1.05,False
+"Locally Advanced, Squamous Cell Carcinoma of the Vulva",PHASE2,1,0,0.0,,,,True
+Hepatectomy,UNKNOWN,1,0,0.0,,,,True
+Prostate Cancer,UNKNOWN,1,1,1.0,1.0,0.95,1.05,False
+Hypopharyngeal Cancer,PHASE1,6,4,1.0,0.25,0.2,0.3,False
+Acute Lymphoblastic Leukemia,PHASE3,6,1,1.0,1.0,0.95,1.05,False
+Cardiovascular Neoplasm,PHASE2,1,1,1.0,1.0,0.95,1.05,False
+Digestive System Neoplasm,PHASE4,1,1,0.0,0.0,-0.05,0.05,False
+Graft Versus Host Disease,PHASE1,2,2,1.0,0.5,0.45,0.55,False
+Epithelial Neoplasm,PHASE4,1,1,1.0,1.0,0.95,1.05,False
+Acute Erythroid Leukemia,PHASE2,2,2,0.0,0.0,-0.05,0.05,False
+Epstein-Barr Virus Infection,PHASE2,1,1,0.0,0.0,-0.05,0.05,False
+Hairy Cell Leukemia,PHASE2,3,3,0.0,0.0,-0.05,0.05,False
+Allogeneic Stem Cell Transplantation,PHASE2,1,1,1.0,1.0,0.95,1.05,False
+Thyroid Cancers That Contain the PAX8-PPARgamma Fusion Gene,PHASE2,1,1,1.0,1.0,0.95,1.05,False
+HER-2,PHASE2,1,1,1.0,1.0,0.95,1.05,False
+Cancer,PHASE3,1,1,1.0,1.0,0.95,1.05,False
+Cancer,UNKNOWN,1,1,1.0,1.0,0.95,1.05,False
+Peripheral Neuropathy,PHASE3,1,1,1.0,1.0,0.95,1.05,False
+Alveolar Soft Part Sarcoma,PHASE2,1,1,1.0,1.0,0.95,1.05,False
+Chronic Kidney Disease,PHASE2,1,1,1.0,1.0,0.95,1.05,False
+Periventricular Leukomalacia,PHASE3,1,1,0.0,0.0,-0.05,0.05,False
+Tumors,PHASE1,5,5,4.0,0.8,0.75,0.8500000000000001,False
+Skin Neoplasm,PHASE2,1,1,1.0,1.0,0.95,1.05,False
+Neurofibroma,PHASE1,1,0,0.0,,,,True
+Lung Diseases,PHASE1,1,0,0.0,,,,True
+Transformed Indolent B-Cell Non-Hodgkin Lymphoma to Diffuse Large B-Cell Lymphoma,PHASE2,1,0,0.0,,,,True
+Hemoglobinopathies,PHASE1,1,1,0.0,0.0,-0.05,0.05,False
+Fanconi Anemia,PHASE1,1,1,0.0,0.0,-0.05,0.05,False
+Noncontiguous Stage II Adult Diffuse Large Cell Lymphoma,PHASE1,1,1,0.0,0.0,-0.05,0.05,False
+Noncontiguous Stage II Adult Diffuse Small Cleaved Cell Lymphoma,PHASE1,1,1,0.0,0.0,-0.05,0.05,False
+Stage IV Adult Diffuse Mixed Cell Lymphoma,PHASE1,1,1,0.0,0.0,-0.05,0.05,False
+Testicular Cancer,PHASE1,1,1,0.0,0.0,-0.05,0.05,False
+Multiple Myeloma,PHASE3,1,1,1.0,1.0,0.95,1.05,False
+Gestational Trophoblastic Neoplasia,PHASE1,1,1,1.0,1.0,0.95,1.05,False

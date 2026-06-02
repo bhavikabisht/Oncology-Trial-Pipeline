@@ -18,22 +18,16 @@ python run_pipeline.py --input data/raw/oncology_trials.csv
 ## Architecture
 Raw CSV (flat, imperfect)
 │
-▼
 src/ingestion.py       ← encoding fixes, list-literal parsing, date normalisation
 │
-▼
 src/profiling.py       ← completeness, cardinality, dirty values, structural anomalies
 │
-▼
 src/schema.py          ← normalised relational tables in DuckDB, derived fields
 │
-▼
 src/analysis.py        ← stratified success rates with small-strata suppression
 │
-▼
 src/visualization.py   ← interactive Plotly dashboards (including Sankey attrition)
 │
-▼
 tests/                 ← pytest suite for ingestion edge-cases and logic validation
 
 ## Schema Design
